@@ -1,0 +1,28 @@
+{
+	"name": "dexmataggnames",
+	"version": "1.0.0",
+	"description": "A tagging script to add tags in Dexma locations",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon --exec babel-node src/index.js",
+		"build": "babel src --out-dir dist",
+		"serve": "node dist/index.js"
+	},
+	"keywords": [
+		"tagging"
+	],
+	"author": "Sujil Anto",
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/cli": "^7.5.5",
+		"@babel/core": "^7.5.5",
+		"@babel/node": "^7.5.5",
+		"@babel/polyfill": "^7.4.4",
+		"@babel/preset-env": "^7.5.5"
+	},
+	"dependencies": {
+		"babel-plugin-dotenv": "^0.1.1",
+		"node-fetch": "^2.6.0",
+		"nodemon": "^1.19.1"
+	}
+}
