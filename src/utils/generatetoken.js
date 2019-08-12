@@ -1,6 +1,6 @@
 import fetch from 'node-fetch'
 import { APP_ID, APP_SECRET } from 'babel-dotenv'
-const TEMP_TOKEN = 'a83ff27628b690ce7469' // chnange Every Time for temporary token
+const TEMP_TOKEN = '79313efd4073a8b2cdaf' // chnange Every Time for temporary token
 const SECRET = APP_SECRET
 const APP_ID_VALUES = APP_ID // MORISSION ID
 const __url = `https://api.dexcell.com/v3/oauth/access-token?temp_token=${TEMP_TOKEN}&secret=${SECRET}&app_id=${APP_ID_VALUES}`

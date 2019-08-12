@@ -1,6 +1,6 @@
 import fs from 'fs'
 
-const PATH = './src/data_JSON/taglist.js'
+const PATH = './src/data/taglist.js'
 
 const defaultValue = {
   gsx$sitename: { $t: 'no_data' },

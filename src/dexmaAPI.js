@@ -13,5 +13,6 @@ export const dexmaDataFetchFunction = async (_url, method = 'GET') => {
   }
   const response = await fetch(_url, options)
   const result = await response.json()
+  console.log(result)
   return result
 }
