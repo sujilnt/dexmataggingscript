@@ -1,6 +1,6 @@
 import fs from 'fs'
 
-const PATH = './src/data/taglist.js'
+const PATH = './src/data/taglist.json'
 
 const defaultValue = {
   gsx$sitename: { $t: 'no_data' },
@@ -16,14 +16,17 @@ export const createJSONFile = async (arr = [defaultValue]) => {
     const siteName = row.gsx$sitename['$t'] // Dexma siteName
     const type = row.gsx$type['$t'] // type of the siteName
     const tagged = row.gsx$tagged['$t'] // tagged siteName
+    const number = siteName.split(' ')[0]
     return {
       siteName,
       tagged,
+      number,
       type
     }
   })
 
-  await fs.writeFileSync(PATH, JSON.stringify(finalData), () => {
+  // writing to the file
+  await fs.writeFileSync(PATH, JSON.stringify({ data: finalData }), () => {
     console.log('successfully written to the file')
   })
 }

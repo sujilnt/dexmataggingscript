@@ -1,0 +1,3892 @@
+{
+	"data": [
+		{
+			"siteName": "026 - DARLINGTON",
+			"tagged": "TRUE",
+			"number": "026",
+			"type": "Core - Large",
+			"id": 113928,
+			"dex_name": "26 DARLINGTON NORTH ROAD"
+		},
+		{
+			"siteName": "160 - ABERDEEN",
+			"tagged": "FALSE",
+			"number": "160",
+			"type": "Safeway - Superstore",
+			"id": 78639,
+			"dex_name": "Aberdeen King St"
+		},
+		{
+			"siteName": "468 - ABERGAVENNY",
+			"tagged": "FALSE",
+			"number": "468",
+			"type": "Core - Supermarket",
+			"id": 107195,
+			"dex_name": "Abergavenny "
+		},
+		{
+			"siteName": "240 - ABERYSTWYTH",
+			"tagged": "FALSE",
+			"number": "240",
+			"type": "Safeway - Superstore",
+			"id": 78641,
+			"dex_name": "Aberystwyth Parc Y Llyn"
+		},
+		{
+			"siteName": "161 - AIRDRIE",
+			"tagged": "FALSE",
+			"number": "161",
+			"type": "Safeway - Superstore",
+			"id": 78643,
+			"dex_name": "Airdrie Gartlea Rd"
+		},
+		{
+			"siteName": "553 - ALDERSHOT",
+			"tagged": "FALSE",
+			"number": "553",
+			"type": "Core - Large",
+			"id": 78644,
+			"dex_name": "Aldershot"
+		},
+		{
+			"siteName": "241 - ALDRIDGE",
+			"tagged": "FALSE",
+			"number": "241",
+			"type": "Safeway - Superstore",
+			"id": 78645,
+			"dex_name": "Aldridge Anchor Rd"
+		},
+		{
+			"siteName": "162 - ALLOA",
+			"tagged": "FALSE",
+			"number": "162",
+			"type": "Safeway - Superstore",
+			"id": 78646,
+			"dex_name": "Alloa Clackmannan Rd"
+		},
+		{
+			"siteName": "163 - ALNESS",
+			"tagged": "TRUE",
+			"number": "163",
+			"type": "Safeway - Small",
+			"id": 78647,
+			"dex_name": "Alness"
+		},
+		{
+			"siteName": "201 - ALNWICK",
+			"tagged": "FALSE",
+			"number": "201",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78648,
+			"dex_name": "Alnwick"
+		},
+		{
+			"siteName": "164 - ARBROATH",
+			"tagged": "FALSE",
+			"number": "164",
+			"type": "Safeway - Superstore",
+			"id": 78649,
+			"dex_name": "Arbroath Hume St"
+		},
+		{
+			"siteName": "430 - ARMTHORPE",
+			"tagged": "FALSE",
+			"number": "430",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78650,
+			"dex_name": "Armthorpe"
+		},
+		{
+			"siteName": "291 - AYLESBURY",
+			"tagged": "FALSE",
+			"number": "291",
+			"type": "Safeway - Superstore",
+			"id": 78652,
+			"dex_name": "Aylesbury Station Way"
+		},
+		{
+			"siteName": "165 - AYR",
+			"tagged": "FALSE",
+			"number": "165",
+			"type": "Safeway - Superstore",
+			"id": 78653,
+			"dex_name": "Ayr Castlehill Rd"
+		},
+		{
+			"siteName": "555 - BACUP",
+			"tagged": "FALSE",
+			"number": "555",
+			"type": "Core - Small",
+			"id": 78654,
+			"dex_name": "Bacup"
+		},
+		{
+			"siteName": "123 - DONCASTER",
+			"tagged": "FALSE",
+			"number": "123",
+			"type": "Core - Large",
+			"id": 78655,
+			"dex_name": "Balby, Doncaster"
+		},
+		{
+			"siteName": "394 - BAMBER BRIDGE",
+			"tagged": "FALSE",
+			"number": "394",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78656,
+			"dex_name": "Bamber Bridge Preston"
+		},
+		{
+			"siteName": "106 - BANBURY",
+			"tagged": "FALSE",
+			"number": "106",
+			"type": "Core - Supermarket",
+			"id": 78657,
+			"dex_name": "Banbury Swan Close"
+		},
+		{
+			"siteName": "647 - BANCHORY",
+			"tagged": "FALSE",
+			"number": "647",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78658,
+			"dex_name": "Banchory North Deeside Rd"
+		},
+		{
+			"siteName": "265 - BANGOR",
+			"tagged": "FALSE",
+			"number": "265",
+			"type": "Safeway - Superstore",
+			"id": 78659,
+			"dex_name": "Bangor Holyhead Rd"
+		},
+		{
+			"siteName": "573 - BARGOED",
+			"tagged": "FALSE",
+			"number": "573",
+			"type": "Core - Supermarket",
+			"id": 78660,
+			"dex_name": "Bargoed"
+		},
+		{
+			"siteName": "202 - BARNARD CASTLE",
+			"tagged": "FALSE",
+			"number": "202",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78661,
+			"dex_name": "Barnard Castle Galgate"
+		},
+		{
+			"siteName": "098 - BARNSLEY",
+			"tagged": "TRUE",
+			"number": "098",
+			"type": "Core - Large",
+			"id": 78662,
+			"dex_name": "Barnsley Brampton"
+		},
+		{
+			"siteName": "098 - BARNSLEY",
+			"tagged": "TRUE",
+			"number": "098",
+			"type": "Core - Large",
+			"id": 78663,
+			"dex_name": "Barnsley Westway"
+		},
+		{
+			"siteName": "516 - BARRACK STREET",
+			"tagged": "FALSE",
+			"number": "516",
+			"type": "Core - Supermarket",
+			"id": 78664,
+			"dex_name": "Barrack Street Glasgow"
+		},
+		{
+			"siteName": "094 - BARROW",
+			"tagged": "TRUE",
+			"number": "094",
+			"type": "Core - Large",
+			"id": 78665,
+			"dex_name": "Barrow Strand"
+		},
+		{
+			"siteName": "082 - BARRY",
+			"tagged": "TRUE",
+			"number": "082",
+			"type": "Core - Large",
+			"id": 78666,
+			"dex_name": "Barry Heol Ceiniog"
+		},
+		{
+			"siteName": "050 - STOKE ",
+			"tagged": "FALSE",
+			"number": "050",
+			"type": "Core - Large",
+			"id": 78667,
+			"dex_name": "Basingstoke Thorneycroft"
+		},
+		{
+			"siteName": "320 - BATH",
+			"tagged": "FALSE",
+			"number": "320",
+			"type": "Safeway - Superstore",
+			"id": 78669,
+			"dex_name": "Bathgate"
+		},
+		{
+			"siteName": "320 - BATH",
+			"tagged": "FALSE",
+			"number": "320",
+			"type": "Safeway - Superstore",
+			"id": 78668,
+			"dex_name": "Bath London Rd"
+		},
+		{
+			"siteName": "028 - ECCLES",
+			"tagged": "FALSE",
+			"number": "028",
+			"type": "Core - Supermarket",
+			"id": 78670,
+			"dex_name": "Beccles George Westwood Way"
+		},
+		{
+			"siteName": "296 - BECONTREE HEATH",
+			"tagged": "FALSE",
+			"number": "296",
+			"type": "Safeway - Superstore",
+			"id": 78671,
+			"dex_name": "Becontree Heath"
+		},
+		{
+			"siteName": "628 - BEDFORD",
+			"tagged": "FALSE",
+			"number": "628",
+			"type": "Core - Large",
+			"id": 78672,
+			"dex_name": "Bedford"
+		},
+		{
+			"siteName": "450 - BEDLINGTON",
+			"tagged": "FALSE",
+			"number": "450",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78673,
+			"dex_name": "Bedlington"
+		},
+		{
+			"siteName": "167 - BELLSHILL",
+			"tagged": "FALSE",
+			"number": "167",
+			"type": "Safeway - Superstore",
+			"id": 78674,
+			"dex_name": "Bellshill John St"
+		},
+		{
+			"siteName": "231 - BELPER",
+			"tagged": "FALSE",
+			"number": "231",
+			"type": "Safeway - Megastore",
+			"id": 78675,
+			"dex_name": "Belper Chapel Street"
+		},
+		{
+			"siteName": "168 - BERWICK",
+			"tagged": "FALSE",
+			"number": "168",
+			"type": "Safeway - Superstore",
+			"id": 78676,
+			"dex_name": "Berwick UT North Rd"
+		},
+		{
+			"siteName": "014 - BEVERLEY",
+			"tagged": "TRUE",
+			"number": "014",
+			"type": "Core - Large",
+			"id": 78677,
+			"dex_name": "Beverley"
+		},
+		{
+			"siteName": "321 - BIDEFORD",
+			"tagged": "FALSE",
+			"number": "321",
+			"type": "Safeway - Megastore",
+			"id": 78678,
+			"dex_name": "Bideford Kingsley Rd"
+		},
+		{
+			"siteName": "090 - SMALL HEATH",
+			"tagged": "TRUE",
+			"number": "090",
+			"type": "Core - Large",
+			"id": 78679,
+			"dex_name": "Birmingham Small Heath"
+		},
+		{
+			"siteName": "478 - BIRTLEY",
+			"tagged": "FALSE",
+			"number": "478",
+			"type": "Core - Supermarket",
+			"id": 78680,
+			"dex_name": "Birtley"
+		},
+		{
+			"siteName": "040 - BISHOP AUCKLAND",
+			"tagged": "TRUE",
+			"number": "040",
+			"type": "Core - Large",
+			"id": 78681,
+			"dex_name": "Bishop Auckland"
+		},
+		{
+			"siteName": "038 - BLACKBURN",
+			"tagged": "TRUE",
+			"number": "038",
+			"type": "Core - Large",
+			"id": 78682,
+			"dex_name": "Blackburn Railway Road"
+		},
+		{
+			"siteName": "066 - BLACKPOOL",
+			"tagged": "TRUE",
+			"number": "066",
+			"type": "Core - Large",
+			"id": 78683,
+			"dex_name": "Blackpool Squires Gate"
+		},
+		{
+			"siteName": "423 - BLANDFORD",
+			"tagged": "FALSE",
+			"number": "423",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 77827,
+			"dex_name": "Blandford Forum West Street"
+		},
+		{
+			"siteName": "567 - BLAYDON",
+			"tagged": "FALSE",
+			"number": "567",
+			"type": "Core - Large",
+			"id": 78685,
+			"dex_name": "Blaydon-On-Tyne"
+		},
+		{
+			"siteName": "203 - BLYTH",
+			"tagged": "FALSE",
+			"number": "203",
+			"type": "Safeway - Superstore",
+			"id": 78686,
+			"dex_name": "Blyth Regent Street"
+		},
+		{
+			"siteName": "322 - BODMIN",
+			"tagged": "FALSE",
+			"number": "322",
+			"type": "Safeway - Superstore",
+			"id": 78687,
+			"dex_name": "Bodmin Priory Rd"
+		},
+		{
+			"siteName": "424 - BOGNOR REGIS",
+			"tagged": "FALSE",
+			"number": "424",
+			"type": "Safeway - Small",
+			"id": 77828,
+			"dex_name": "Bognor Regis Bedford St"
+		},
+		{
+			"siteName": "045 - BOLTON",
+			"tagged": "TRUE",
+			"number": "045",
+			"type": "Core - Large",
+			"id": 78691,
+			"dex_name": "Bolton Atlas Mills"
+		},
+		{
+			"siteName": "045 - BOLTON",
+			"tagged": "TRUE",
+			"number": "045",
+			"type": "Core - Large",
+			"id": 78689,
+			"dex_name": "Bolton Breightmet"
+		},
+		{
+			"siteName": "045 - BOLTON",
+			"tagged": "TRUE",
+			"number": "045",
+			"type": "Core - Large",
+			"id": 78696,
+			"dex_name": "Bolton Dawes Street"
+		},
+		{
+			"siteName": "388 - BOREHAMWOOD",
+			"tagged": "FALSE",
+			"number": "388",
+			"type": "Core - Large",
+			"id": 78697,
+			"dex_name": "Borehamwood"
+		},
+		{
+			"siteName": "108 - BOROUGHBRIDGE",
+			"tagged": "TRUE",
+			"number": "108",
+			"type": "Core - Large",
+			"id": 78707,
+			"dex_name": "Boroughbridge Wetherby Road"
+		},
+		{
+			"siteName": "346 - BRACKNELL",
+			"tagged": "FALSE",
+			"number": "346",
+			"type": "Safeway - Superstore",
+			"id": 78708,
+			"dex_name": "Bracknell The Peel Centre"
+		},
+		{
+			"siteName": "003 - ENTERPRISE 5",
+			"tagged": "TRUE",
+			"number": "003",
+			"type": "Core - Large",
+			"id": 77824,
+			"dex_name": "Bradford Enterprise 5"
+		},
+		{
+			"siteName": "002 - MAYO AVENUE",
+			"tagged": "TRUE",
+			"number": "002",
+			"type": "Core - Large",
+			"id": 78709,
+			"dex_name": "Bradford Mayo Avenue"
+		},
+		{
+			"siteName": "008 - THORNBURY",
+			"tagged": "TRUE",
+			"number": "008",
+			"type": "Core - Large",
+			"id": 78710,
+			"dex_name": "Bradford Thornbury"
+		},
+		{
+			"siteName": "004 - VICTORIA",
+			"tagged": "TRUE",
+			"number": "004",
+			"type": "Core - Large",
+			"id": 78711,
+			"dex_name": "Bradford Victoria"
+		},
+		{
+			"siteName": "266 - BRECON",
+			"tagged": "FALSE",
+			"number": "266",
+			"type": "Safeway - Small",
+			"id": 78712,
+			"dex_name": "Brecon Free St"
+		},
+		{
+			"siteName": "479 - BRENTFORD",
+			"tagged": "FALSE",
+			"number": "479",
+			"type": "Core - Small",
+			"id": 77829,
+			"dex_name": "Brentford"
+		},
+		{
+			"siteName": "479 - BRENTFORD",
+			"tagged": "FALSE",
+			"number": "479",
+			"type": "Core - Small",
+			"id": 78713,
+			"dex_name": "Brentford"
+		},
+		{
+			"siteName": "224 - BRIDLINGTON",
+			"tagged": "FALSE",
+			"number": "224",
+			"type": "Safeway - Superstore",
+			"id": 78715,
+			"dex_name": "Bridlington Bessingby Rd"
+		},
+		{
+			"siteName": "347 - BRIDPORT",
+			"tagged": "FALSE",
+			"number": "347",
+			"type": "Safeway - Superstore",
+			"id": 78716,
+			"dex_name": "Bridport Asker Meadows"
+		},
+		{
+			"siteName": "480 - BRIGHTON",
+			"tagged": "FALSE",
+			"number": "480",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 77830,
+			"dex_name": "Brighton"
+		},
+		{
+			"siteName": "084 - BRISTOL CRIBBS",
+			"tagged": "TRUE",
+			"number": "084",
+			"type": "Core - Large",
+			"id": 78718,
+			"dex_name": "Bristol Cribbs Causeway"
+		},
+		{
+			"siteName": "324 - FISHPONDS",
+			"tagged": "FALSE",
+			"number": "324",
+			"type": "Safeway - Superstore",
+			"id": 78719,
+			"dex_name": "Bristol Fishponds"
+		},
+		{
+			"siteName": "143 - HARTCLIFFE",
+			"tagged": "FALSE",
+			"number": "143",
+			"type": "Core - Large",
+			"id": 78720,
+			"dex_name": "Bristol Hartcliffe Peterson Avenue"
+		},
+		{
+			"siteName": "242 - BROMSGROVE",
+			"tagged": "FALSE",
+			"number": "242",
+			"type": "Safeway - Superstore",
+			"id": 78721,
+			"dex_name": "Bromsgrove Buntsford Ind Pk"
+		},
+		{
+			"siteName": "583 - BROUGH",
+			"tagged": "FALSE",
+			"number": "583",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78722,
+			"dex_name": "Brough Welton Rd"
+		},
+		{
+			"siteName": "325 - BUDE",
+			"tagged": "FALSE",
+			"number": "325",
+			"type": "Safeway - Superstore",
+			"id": 78723,
+			"dex_name": "Bude Stucley Road"
+		},
+		{
+			"siteName": "243 - BURNTWOOD",
+			"tagged": "FALSE",
+			"number": "243",
+			"type": "Safeway - Superstore",
+			"id": 78724,
+			"dex_name": "Burntwood High St"
+		},
+		{
+			"siteName": "049 - WELLINGTON",
+			"tagged": "TRUE",
+			"number": "049",
+			"type": "Core - Large",
+			"id": 78725,
+			"dex_name": "Burton u Trent Wellington Road"
+		},
+		{
+			"siteName": "208 - BUXTON",
+			"tagged": "FALSE",
+			"number": "208",
+			"type": "Safeway - Small",
+			"id": 77906,
+			"dex_name": "Buxton"
+		},
+		{
+			"siteName": "208 - BUXTON",
+			"tagged": "FALSE",
+			"number": "208",
+			"type": "Safeway - Small",
+			"id": 78726,
+			"dex_name": "Buxton Bakewell Rd"
+		},
+		{
+			"siteName": "267 - CAERNARFON",
+			"tagged": "FALSE",
+			"number": "267",
+			"type": "Safeway - Small",
+			"id": 78727,
+			"dex_name": "Caernarfon North Rd"
+		},
+		{
+			"siteName": "268 - CAERPHILLY",
+			"tagged": "FALSE",
+			"number": "268",
+			"type": "Safeway - Superstore",
+			"id": 78728,
+			"dex_name": "Caerphilly Castle Court"
+		},
+		{
+			"siteName": "483 - CAMBERWELL",
+			"tagged": "FALSE",
+			"number": "483",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 77831,
+			"dex_name": "Camberwell Green"
+		},
+		{
+			"siteName": "118 - CAMBOURNE",
+			"tagged": "FALSE",
+			"number": "118",
+			"type": "Core - Supermarket",
+			"id": 78729,
+			"dex_name": "Cambridge Cambourne"
+		},
+		{
+			"siteName": "244 - CANNOCK",
+			"tagged": "FALSE",
+			"number": "244",
+			"type": "Safeway - Superstore",
+			"id": 78730,
+			"dex_name": "Cannock Mill St"
+		},
+		{
+			"siteName": "293 - CANTERBURY",
+			"tagged": "FALSE",
+			"number": "293",
+			"type": "Safeway - Superstore",
+			"id": 77832,
+			"dex_name": "Canterbury Ten Perch Rd"
+		},
+		{
+			"siteName": "276 - CANVEY ISLAND",
+			"tagged": "FALSE",
+			"number": "276",
+			"type": "Safeway - Megastore",
+			"id": 78731,
+			"dex_name": "Canvey Island - Link Road"
+		},
+		{
+			"siteName": "276 - CANVEY ISLAND",
+			"tagged": "FALSE",
+			"number": "276",
+			"type": "Safeway - Megastore",
+			"id": 78732,
+			"dex_name": "Canvey Island Northwick Rd"
+		},
+		{
+			"siteName": "469 - CARDIFF ",
+			"tagged": "FALSE",
+			"number": "469",
+			"type": "Core - Supermarket",
+			"id": 78734,
+			"dex_name": "Cardiff "
+		},
+		{
+			"siteName": "157 - CARDIFF BAY",
+			"tagged": "FALSE",
+			"number": "157",
+			"type": "Core - Large",
+			"id": 78733,
+			"dex_name": "Cardiff Bay"
+		},
+		{
+			"siteName": "469 - CARDIFF ",
+			"tagged": "FALSE",
+			"number": "469",
+			"type": "Core - Supermarket",
+			"id": 78735,
+			"dex_name": "Cardiff Ty Glas Road"
+		},
+		{
+			"siteName": "044 - CARLISLE",
+			"tagged": "TRUE",
+			"number": "044",
+			"type": "Core - Large",
+			"id": 78736,
+			"dex_name": "Carlisle Kingstown Rd"
+		},
+		{
+			"siteName": "270 - CARMARTHEN",
+			"tagged": "FALSE",
+			"number": "270",
+			"type": "Safeway - Superstore",
+			"id": 78737,
+			"dex_name": "Carmarthen Llanelli Rd"
+		},
+		{
+			"siteName": "672 - CARTERTON",
+			"tagged": "FALSE",
+			"number": "672",
+			"type": "Core - Supermarket",
+			"id": 78738,
+			"dex_name": "Carterton"
+		},
+		{
+			"siteName": "245 - CASTLE BROMWICH",
+			"tagged": "FALSE",
+			"number": "245",
+			"type": "Safeway - Superstore",
+			"id": 78739,
+			"dex_name": "Castle Bromwich Hurst Lane"
+		},
+		{
+			"siteName": "437 - CASTLEFORD",
+			"tagged": "FALSE",
+			"number": "437",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78740,
+			"dex_name": "Castleford"
+		},
+		{
+			"siteName": "294 - CATERHAM",
+			"tagged": "FALSE",
+			"number": "294",
+			"type": "Safeway - Superstore",
+			"id": 77833,
+			"dex_name": "Caterham Church Walk"
+		},
+		{
+			"siteName": "209 - CHAPEL EN LE FRITH",
+			"tagged": "FALSE",
+			"number": "209",
+			"type": "Safeway - Small",
+			"id": 78741,
+			"dex_name": "Chapel en le Frith Market St"
+		},
+		{
+			"siteName": "025 - INCE",
+			"tagged": "TRUE",
+			"number": "025",
+			"type": "Core - Large",
+			"id": 77834,
+			"dex_name": "Chatham Princes Avenue"
+		},
+		{
+			"siteName": "484 - CHEADLE",
+			"tagged": "FALSE",
+			"number": "484",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78742,
+			"dex_name": "Cheadle"
+		},
+		{
+			"siteName": "485 - CHELMSFORD",
+			"tagged": "FALSE",
+			"number": "485",
+			"type": "Core - Small",
+			"id": 78743,
+			"dex_name": "Chelmsford"
+		},
+		{
+			"siteName": "326 - UP HATHERLEY",
+			"tagged": "FALSE",
+			"number": "326",
+			"type": "Safeway - Superstore",
+			"id": 78744,
+			"dex_name": "Cheltenham Up Hatherley"
+		},
+		{
+			"siteName": "131 - CHESTER",
+			"tagged": "FALSE",
+			"number": "131",
+			"type": "Safeway - Superstore",
+			"id": 78747,
+			"dex_name": "Chesterfield Chatsworth Rd"
+		},
+		{
+			"siteName": "027 - STAVELEY",
+			"tagged": "TRUE",
+			"number": "027",
+			"type": "Core - Large",
+			"id": 78748,
+			"dex_name": "Chesterfield Staveley"
+		},
+		{
+			"siteName": "131 - CHESTER",
+			"tagged": "FALSE",
+			"number": "131",
+			"type": "Safeway - Superstore",
+			"id": 78745,
+			"dex_name": "Chester Le Street"
+		},
+		{
+			"siteName": "131 - CHESTER",
+			"tagged": "FALSE",
+			"number": "131",
+			"type": "Safeway - Superstore",
+			"id": 78746,
+			"dex_name": "Chester Liverpool Rd"
+		},
+		{
+			"siteName": "348 - CHIPPENHAM",
+			"tagged": "FALSE",
+			"number": "348",
+			"type": "Safeway - Megastore",
+			"id": 78749,
+			"dex_name": "Chippenham Cepen Park North"
+		},
+		{
+			"siteName": "060 - CHORLEY",
+			"tagged": "FALSE",
+			"number": "060",
+			"type": "Core - Supermarket",
+			"id": 78750,
+			"dex_name": "Chorley Brooke Street"
+		},
+		{
+			"siteName": "383 - CHORLTON CUM HARDY",
+			"tagged": "FALSE",
+			"number": "383",
+			"type": "Safeway - Small",
+			"id": 78751,
+			"dex_name": "Chorlton Cum Hardy Wilbraham Rd"
+		},
+		{
+			"siteName": "278 - CLACTON",
+			"tagged": "FALSE",
+			"number": "278",
+			"type": "Safeway - Superstore",
+			"id": 78752,
+			"dex_name": "Clacton Centenary Way"
+		},
+		{
+			"siteName": "278 - CLACTON",
+			"tagged": "FALSE",
+			"number": "278",
+			"type": "Safeway - Superstore",
+			"id": 78753,
+			"dex_name": "Clacton Waterglade"
+		},
+		{
+			"siteName": "075 - CLEETHORPES",
+			"tagged": "TRUE",
+			"number": "075",
+			"type": "Core - Large",
+			"id": 78754,
+			"dex_name": "Cleethorpes Laceby"
+		},
+		{
+			"siteName": "054 - COALVILLE",
+			"tagged": "TRUE",
+			"number": "054",
+			"type": "Core - Large",
+			"id": 78762,
+			"dex_name": "Coalville Whitwick Road"
+		},
+		{
+			"siteName": "552 - COLESHILL",
+			"tagged": "FALSE",
+			"number": "552",
+			"type": "Core - Small",
+			"id": 78763,
+			"dex_name": "Coleshill"
+		},
+		{
+			"siteName": "271 - COLWYN BAY",
+			"tagged": "FALSE",
+			"number": "271",
+			"type": "Safeway - Small",
+			"id": 78764,
+			"dex_name": "Colwyn Bay Sea View Rd"
+		},
+		{
+			"siteName": "025 - INCE",
+			"tagged": "TRUE",
+			"number": "025",
+			"type": "Core - Large",
+			"id": 78765,
+			"dex_name": "Congleton Princess St"
+		},
+		{
+			"siteName": "204 - CONSETT",
+			"tagged": "FALSE",
+			"number": "204",
+			"type": "Safeway - Megastore",
+			"id": 78767,
+			"dex_name": "Consett"
+		},
+		{
+			"siteName": "232 - CORBY",
+			"tagged": "FALSE",
+			"number": "232",
+			"type": "Safeway - Superstore",
+			"id": 78768,
+			"dex_name": "Corby Snatch Hill"
+		},
+		{
+			"siteName": "486 - CORRINGHAM",
+			"tagged": "FALSE",
+			"number": "486",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78769,
+			"dex_name": "Corringham"
+		},
+		{
+			"siteName": "069 - BINLEY",
+			"tagged": "TRUE",
+			"number": "069",
+			"type": "Core - Large",
+			"id": 78770,
+			"dex_name": "Coventry Binley"
+		},
+		{
+			"siteName": "246 - COVENTRY HOLYHEAD ROAD",
+			"tagged": "FALSE",
+			"number": "246",
+			"type": "Safeway - Megastore",
+			"id": 78771,
+			"dex_name": "Coventry Holyhead Road"
+		},
+		{
+			"siteName": "487 - COWDENBEATH",
+			"tagged": "FALSE",
+			"number": "487",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78772,
+			"dex_name": "Cowdenbeath"
+		},
+		{
+			"siteName": "639 - CRAWLEY",
+			"tagged": "FALSE",
+			"number": "639",
+			"type": "Core - Large",
+			"id": 78773,
+			"dex_name": "Crawley - Sussex House"
+		},
+		{
+			"siteName": "490 - CREDITON",
+			"tagged": "FALSE",
+			"number": "490",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78774,
+			"dex_name": "Crediton"
+		},
+		{
+			"siteName": "120 - CREWE",
+			"tagged": "FALSE",
+			"number": "120",
+			"type": "Core - Large",
+			"id": 78775,
+			"dex_name": "Crewe Dunwoody Way"
+		},
+		{
+			"siteName": "279 - CROMER",
+			"tagged": "FALSE",
+			"number": "279",
+			"type": "Safeway - Superstore",
+			"id": 78776,
+			"dex_name": "Cromer Holt Rd"
+		},
+		{
+			"siteName": "158 - CROWBOROUGH",
+			"tagged": "FALSE",
+			"number": "158",
+			"type": "Core - Supermarket",
+			"id": 77835,
+			"dex_name": "Crowborough"
+		},
+		{
+			"siteName": "576 - CROYDON",
+			"tagged": "FALSE",
+			"number": "576",
+			"type": "Core - Large",
+			"id": 78778,
+			"dex_name": "Croydon"
+		},
+		{
+			"siteName": "166 - CWMBRAN",
+			"tagged": "FALSE",
+			"number": "166",
+			"type": "Core - Large",
+			"id": 78779,
+			"dex_name": "Cwmbran"
+		},
+		{
+			"siteName": "510 - DALKEITH",
+			"tagged": "FALSE",
+			"number": "510",
+			"type": "Core - Supermarket",
+			"id": 78780,
+			"dex_name": "Dalkeith - Eskbank Road"
+		},
+		{
+			"siteName": "026 - DARLINGTON",
+			"tagged": "TRUE",
+			"number": "026",
+			"type": "Core - Large",
+			"id": 78781,
+			"dex_name": "Darlington Morton Park"
+		},
+		{
+			"siteName": "026 - DARLINGTON",
+			"tagged": "TRUE",
+			"number": "026",
+			"type": "Core - Large",
+			"id": 78782,
+			"dex_name": "Darlington North Road"
+		},
+		{
+			"siteName": "272 - DENBIGH",
+			"tagged": "FALSE",
+			"number": "272",
+			"type": "Safeway - Small",
+			"id": 78783,
+			"dex_name": "Denbigh Smithfield Rd"
+		},
+		{
+			"siteName": "093 - DENTON",
+			"tagged": "TRUE",
+			"number": "093",
+			"type": "Core - Large",
+			"id": 78784,
+			"dex_name": "Denton"
+		},
+		{
+			"siteName": "078 - DERBY",
+			"tagged": "TRUE",
+			"number": "078",
+			"type": "Core - Large",
+			"id": 78785,
+			"dex_name": "Derby Wheatcroft Way"
+		},
+		{
+			"siteName": "086 - DEREHAM",
+			"tagged": "TRUE",
+			"number": "086",
+			"type": "Core - Large",
+			"id": 78786,
+			"dex_name": "Dereham"
+		},
+		{
+			"siteName": "349 - DEVIZES",
+			"tagged": "FALSE",
+			"number": "349",
+			"type": "Safeway - Superstore",
+			"id": 78787,
+			"dex_name": "Devizes Estcourt St"
+		},
+		{
+			"siteName": "004 - VICTORIA",
+			"tagged": "TRUE",
+			"number": "004",
+			"type": "Core - Large",
+			"id": 78788,
+			"dex_name": "Diss Victoria Rd"
+		},
+		{
+			"siteName": "123 - DONCASTER",
+			"tagged": "FALSE",
+			"number": "123",
+			"type": "Core - Large",
+			"id": 78789,
+			"dex_name": "Doncaster York Road"
+		},
+		{
+			"siteName": "441 - DOVER",
+			"tagged": "FALSE",
+			"number": "441",
+			"type": "Core - Supermarket",
+			"id": 77836,
+			"dex_name": "Dover"
+		},
+		{
+			"siteName": "491 - DOWNHAM MARKET",
+			"tagged": "FALSE",
+			"number": "491",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78758,
+			"dex_name": "Downham Market"
+		},
+		{
+			"siteName": "195 - ST ANDREWS",
+			"tagged": "FALSE",
+			"number": "195",
+			"type": "Safeway - Superstore",
+			"id": 78759,
+			"dex_name": "Droitwich St Andrews Ctre"
+		},
+		{
+			"siteName": "250 - KINGSWINFORD",
+			"tagged": "FALSE",
+			"number": "250",
+			"type": "Safeway - Superstore",
+			"id": 78791,
+			"dex_name": "Dudley Kingswinford"
+		},
+		{
+			"siteName": "037 - DUKINFIELD",
+			"tagged": "TRUE",
+			"number": "037",
+			"type": "Core - Large",
+			"id": 78792,
+			"dex_name": "Dukinfield Foundry Street"
+		},
+		{
+			"siteName": "169 - DUMBARTON",
+			"tagged": "FALSE",
+			"number": "169",
+			"type": "Safeway - Superstore",
+			"id": 78793,
+			"dex_name": "Dumbarton Glasgow Rd"
+		},
+		{
+			"siteName": "170 - DUMFRIES",
+			"tagged": "FALSE",
+			"number": "170",
+			"type": "Safeway - Megastore",
+			"id": 78794,
+			"dex_name": "Dumfries Brooms Rd"
+		},
+		{
+			"siteName": "145 - DUNDEE",
+			"tagged": "FALSE",
+			"number": "145",
+			"type": "Core - Large",
+			"id": 78795,
+			"dex_name": "Dundee Afton Way"
+		},
+		{
+			"siteName": "492 - DUNOON",
+			"tagged": "FALSE",
+			"number": "492",
+			"type": "Core - Supermarket",
+			"id": 78796,
+			"dex_name": "Dunoon"
+		},
+		{
+			"siteName": "546 - EASTBOURNE",
+			"tagged": "FALSE",
+			"number": "546",
+			"type": "Core - Large",
+			"id": 78799,
+			"dex_name": "Eastbourne"
+		},
+		{
+			"siteName": "171 - LINDSAYFIELD",
+			"tagged": "FALSE",
+			"number": "171",
+			"type": "Safeway - Megastore",
+			"id": 78797,
+			"dex_name": "East Kilbride Lindsayfield"
+		},
+		{
+			"siteName": "172 - STEWARTFIELD",
+			"tagged": "FALSE",
+			"number": "172",
+			"type": "Safeway - Superstore",
+			"id": 78798,
+			"dex_name": "East Kilbride Stewartfield"
+		},
+		{
+			"siteName": "095 - EBBW VALE",
+			"tagged": "TRUE",
+			"number": "095",
+			"type": "Core - Large",
+			"id": 78801,
+			"dex_name": "Ebbw Vale Beaufort Road"
+		},
+		{
+			"siteName": "028 - ECCLES",
+			"tagged": "FALSE",
+			"number": "028",
+			"type": "Core - Supermarket",
+			"id": 78802,
+			"dex_name": "Eccles Irwell Place"
+		},
+		{
+			"siteName": "545 - EDGBASTON",
+			"tagged": "FALSE",
+			"number": "545",
+			"type": "Core - Supermarket",
+			"id": 77907,
+			"dex_name": "Edgbaston"
+		},
+		{
+			"siteName": "173 - FERRY ROAD",
+			"tagged": "FALSE",
+			"number": "173",
+			"type": "Safeway - Superstore",
+			"id": 94041,
+			"dex_name": "Edinburgh Ferry Road"
+		},
+		{
+			"siteName": "174 - HUNTERS TRYST",
+			"tagged": "FALSE",
+			"number": "174",
+			"type": "Safeway - Superstore",
+			"id": 78803,
+			"dex_name": "Edinburgh Hunters Tryst"
+		},
+		{
+			"siteName": "175 - MOREDUN",
+			"tagged": "FALSE",
+			"number": "175",
+			"type": "Safeway - Superstore",
+			"id": 78804,
+			"dex_name": "Edinburgh Moredun"
+		},
+		{
+			"siteName": "177 - GYLE",
+			"tagged": "FALSE",
+			"number": "177",
+			"type": "Safeway - Megastore",
+			"id": 78806,
+			"dex_name": "Edinburgh South Gyle"
+		},
+		{
+			"siteName": "533 - ELLAND",
+			"tagged": "FALSE",
+			"number": "533",
+			"type": "Core - Supermarket",
+			"id": 78807,
+			"dex_name": "Elland"
+		},
+		{
+			"siteName": "131 - CHESTER",
+			"tagged": "FALSE",
+			"number": "131",
+			"type": "Safeway - Superstore",
+			"id": 78808,
+			"dex_name": "Ellesmere Port Chester Rd"
+		},
+		{
+			"siteName": "323 - BRIDGEWATER",
+			"tagged": "FALSE",
+			"number": "323",
+			"type": "Safeway - Superstore",
+			"id": 78809,
+			"dex_name": "Erskine Bridgewater SC"
+		},
+		{
+			"siteName": "247 - EVESHAM",
+			"tagged": "FALSE",
+			"number": "247",
+			"type": "Safeway - Superstore",
+			"id": 78810,
+			"dex_name": "Evesham Four Pool Estate"
+		},
+		{
+			"siteName": "496 - EXETER",
+			"tagged": "FALSE",
+			"number": "496",
+			"type": "Core - Supermarket",
+			"id": 78811,
+			"dex_name": "Exeter"
+		},
+		{
+			"siteName": "022 - FAILSWORTH",
+			"tagged": "TRUE",
+			"number": "022",
+			"type": "Core - Large",
+			"id": 78812,
+			"dex_name": "Failsworth Poplar Street"
+		},
+		{
+			"siteName": "282 - FAKENHAM",
+			"tagged": "FALSE",
+			"number": "282",
+			"type": "Safeway - Superstore",
+			"id": 78813,
+			"dex_name": "Fakenham Clipbush Lane"
+		},
+		{
+			"siteName": "135 - FALKIRK",
+			"tagged": "FALSE",
+			"number": "135",
+			"type": "Core - Large",
+			"id": 78814,
+			"dex_name": "Falkirk"
+		},
+		{
+			"siteName": "351 - FARNBOROUGH",
+			"tagged": "FALSE",
+			"number": "351",
+			"type": "Safeway - Superstore",
+			"id": 78815,
+			"dex_name": "Farnborough Southwood"
+		},
+		{
+			"siteName": "520 - FAVERSHAM",
+			"tagged": "FALSE",
+			"number": "520",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 77837,
+			"dex_name": "Faversham"
+		},
+		{
+			"siteName": "283 - FELIXSTOWE",
+			"tagged": "FALSE",
+			"number": "283",
+			"type": "Safeway - Superstore",
+			"id": 78816,
+			"dex_name": "Felixstowe Cavendish Pk Est"
+		},
+		{
+			"siteName": "262 - STONE",
+			"tagged": "FALSE",
+			"number": "262",
+			"type": "Safeway - Superstore",
+			"id": 77839,
+			"dex_name": "Folkestone Cheriton Rd"
+		},
+		{
+			"siteName": "178 - FORT WILLIAM",
+			"tagged": "FALSE",
+			"number": "178",
+			"type": "Safeway - Superstore",
+			"id": 107191,
+			"dex_name": "Fort William"
+		},
+		{
+			"siteName": "497 - FRODSHAM",
+			"tagged": "FALSE",
+			"number": "497",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78819,
+			"dex_name": "Frodsham"
+		},
+		{
+			"siteName": "031 - GAINSBOROUGH",
+			"tagged": "FALSE",
+			"number": "031",
+			"type": "Core - Supermarket",
+			"id": 78820,
+			"dex_name": "Gainsborough Heapham Rd"
+		},
+		{
+			"siteName": "452 - GIBRALTAR",
+			"tagged": "FALSE",
+			"number": "452",
+			"type": "Safeway - Superstore",
+			"id": 107194,
+			"dex_name": "Gibraltar"
+		},
+		{
+			"siteName": "179 - ANNIESLAND",
+			"tagged": "FALSE",
+			"number": "179",
+			"type": "Safeway - Megastore",
+			"id": 78822,
+			"dex_name": "Glasgow Anniesland"
+		},
+		{
+			"siteName": "152 - AUCHINLEA",
+			"tagged": "FALSE",
+			"number": "152",
+			"type": "Core - Large",
+			"id": 78823,
+			"dex_name": "Glasgow Auchinlea"
+		},
+		{
+			"siteName": "180 - BAILLIESTON",
+			"tagged": "FALSE",
+			"number": "180",
+			"type": "Safeway - Superstore",
+			"id": 78824,
+			"dex_name": "Glasgow Baillieston"
+		},
+		{
+			"siteName": "181 - BISHOPBRIGGS",
+			"tagged": "FALSE",
+			"number": "181",
+			"type": "Safeway - Superstore",
+			"id": 78825,
+			"dex_name": "Glasgow Bishopbriggs"
+		},
+		{
+			"siteName": "182 - CAMBUSLANG",
+			"tagged": "FALSE",
+			"number": "182",
+			"type": "Safeway - Superstore",
+			"id": 78826,
+			"dex_name": "Glasgow Cambuslang"
+		},
+		{
+			"siteName": "136 - CARDONALD",
+			"tagged": "FALSE",
+			"number": "136",
+			"type": "Core - Supermarket",
+			"id": 78827,
+			"dex_name": "Glasgow Cardonald"
+		},
+		{
+			"siteName": "374 - CROSSMYLOOF",
+			"tagged": "FALSE",
+			"number": "374",
+			"type": "Safeway - Small",
+			"id": 78828,
+			"dex_name": "Glasgow Crossmyloof"
+		},
+		{
+			"siteName": "693 - GIFFNOCK",
+			"tagged": "FALSE",
+			"number": "693",
+			"type": "Core - Supermarket",
+			"id": 78829,
+			"dex_name": "Glasgow Giffnock"
+		},
+		{
+			"siteName": "183 - NEWLANDS",
+			"tagged": "FALSE",
+			"number": "183",
+			"type": "Safeway - Superstore",
+			"id": 78830,
+			"dex_name": "Glasgow Newlands"
+		},
+		{
+			"siteName": "375 - PARTICK",
+			"tagged": "FALSE",
+			"number": "375",
+			"type": "Safeway - Superstore",
+			"id": 78831,
+			"dex_name": "Glasgow Partick"
+		},
+		{
+			"siteName": "327 - GLASTONBURY",
+			"tagged": "FALSE",
+			"number": "327",
+			"type": "Safeway - Superstore",
+			"id": 78832,
+			"dex_name": "Glastonbury Street Rd"
+		},
+		{
+			"siteName": "184 - GLENROTHES",
+			"tagged": "FALSE",
+			"number": "184",
+			"type": "Safeway - Superstore",
+			"id": 78833,
+			"dex_name": "Glenrothes Flemington Rd"
+		},
+		{
+			"siteName": "142 - ABBEYDALE",
+			"tagged": "FALSE",
+			"number": "142",
+			"type": "Core - Supermarket",
+			"id": 78835,
+			"dex_name": "Gloucester Abbeydale"
+		},
+		{
+			"siteName": "575 - GLOUCESTER - METZ WAY",
+			"tagged": "FALSE",
+			"number": "575",
+			"type": "Core - Large",
+			"id": 78834,
+			"dex_name": "Gloucester - Metz Way"
+		},
+		{
+			"siteName": "350 - GOOLE",
+			"tagged": "FALSE",
+			"number": "350",
+			"type": "Core - Supermarket",
+			"id": 78836,
+			"dex_name": "Goole"
+		},
+		{
+			"siteName": "439 - GORLESTON",
+			"tagged": "TRUE",
+			"number": "439",
+			"type": "Core - Small",
+			"id": 78837,
+			"dex_name": "Gorleston Blackwell Road"
+		},
+		{
+			"siteName": "352 - GOSPORT",
+			"tagged": "FALSE",
+			"number": "352",
+			"type": "Safeway - Superstore",
+			"id": 77842,
+			"dex_name": "Gosport Walpole Rd"
+		},
+		{
+			"siteName": "030 - GRANTHAM",
+			"tagged": "FALSE",
+			"number": "030",
+			"type": "Core - Supermarket",
+			"id": 78838,
+			"dex_name": "Grantham Isaac Newton Centre"
+		},
+		{
+			"siteName": "147 - GRANTON",
+			"tagged": "FALSE",
+			"number": "147",
+			"type": "Core - Large",
+			"id": 78839,
+			"dex_name": "Granton Waterfront Broadway"
+		},
+		{
+			"siteName": "298 - GRAVESEND",
+			"tagged": "FALSE",
+			"number": "298",
+			"type": "Safeway - Megastore",
+			"id": 78755,
+			"dex_name": "Gravesend Coldharbour Rd"
+		},
+		{
+			"siteName": "085 - GRAYS",
+			"tagged": "TRUE",
+			"number": "085",
+			"type": "Core - Large",
+			"id": 78840,
+			"dex_name": "Grays London Road"
+		},
+		{
+			"siteName": "398 - GREAT HARWOOD",
+			"tagged": "FALSE",
+			"number": "398",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78841,
+			"dex_name": "Great Harwood"
+		},
+		{
+			"siteName": "185 - GREENOCK",
+			"tagged": "FALSE",
+			"number": "185",
+			"type": "Safeway - Superstore",
+			"id": 78842,
+			"dex_name": "Greenock Rue End St"
+		},
+		{
+			"siteName": "635 - GUISBOROUGH",
+			"tagged": "FALSE",
+			"number": "635",
+			"type": "Safeway - Small",
+			"id": 78843,
+			"dex_name": "Guisborough Westgate"
+		},
+		{
+			"siteName": "284 - HADLEIGH",
+			"tagged": "FALSE",
+			"number": "284",
+			"type": "Safeway - Superstore",
+			"id": 78844,
+			"dex_name": "Hadleigh"
+		},
+		{
+			"siteName": "284 - HADLEIGH",
+			"tagged": "FALSE",
+			"number": "284",
+			"type": "Safeway - Superstore",
+			"id": 78818,
+			"dex_name": "Hadleigh Suffolk"
+		},
+		{
+			"siteName": "475 - HALIFAX",
+			"tagged": "FALSE",
+			"number": "475",
+			"type": "Core - Supermarket",
+			"id": 78846,
+			"dex_name": "Halifax Illingworth"
+		},
+		{
+			"siteName": "148 - HAMILTON",
+			"tagged": "FALSE",
+			"number": "148",
+			"type": "Core - Large",
+			"id": 78847,
+			"dex_name": "Hamilton New Park Street"
+		},
+		{
+			"siteName": "694 - HAREHILLS",
+			"tagged": "FALSE",
+			"number": "694",
+			"type": "Core - Supermarket",
+			"id": 78848,
+			"dex_name": "Harehills, Leeds"
+		},
+		{
+			"siteName": "065 - STARBECK",
+			"tagged": "TRUE",
+			"number": "065",
+			"type": "Core - Large",
+			"id": 78849,
+			"dex_name": "Harrogate Starbeck"
+		},
+		{
+			"siteName": "549 - HARROW",
+			"tagged": "FALSE",
+			"number": "549",
+			"type": "Core - Supermarket",
+			"id": 78853,
+			"dex_name": "Harrow Trident Point"
+		},
+		{
+			"siteName": "132 - HARTLEPOOL",
+			"tagged": "FALSE",
+			"number": "132",
+			"type": "Core - Large",
+			"id": 78854,
+			"dex_name": "Hartlepool"
+		},
+		{
+			"siteName": "285 - HARWICH",
+			"tagged": "FALSE",
+			"number": "285",
+			"type": "Safeway - Small",
+			"id": 78855,
+			"dex_name": "Harwich Iconfield Pk"
+		},
+		{
+			"siteName": "353 - HASTINGS",
+			"tagged": "FALSE",
+			"number": "353",
+			"type": "Safeway - Superstore",
+			"id": 78857,
+			"dex_name": "Hastings Queens Rd"
+		},
+		{
+			"siteName": "353 - HASTINGS",
+			"tagged": "FALSE",
+			"number": "353",
+			"type": "Safeway - Superstore",
+			"id": 77846,
+			"dex_name": "Hastings Queens Road"
+		},
+		{
+			"siteName": "273 - HAVERFORDWEST",
+			"tagged": "FALSE",
+			"number": "273",
+			"type": "Safeway - Superstore",
+			"id": 78858,
+			"dex_name": "Haverfordwest Bridge Meadow Lane"
+		},
+		{
+			"siteName": "187 - HAWICK",
+			"tagged": "FALSE",
+			"number": "187",
+			"type": "Safeway - Superstore",
+			"id": 78859,
+			"dex_name": "Hawick Mart St"
+		},
+		{
+			"siteName": "042 - HECKMONDWIKE",
+			"tagged": "TRUE",
+			"number": "042",
+			"type": "Core - Large",
+			"id": 78860,
+			"dex_name": "Heckmondwike Union Street"
+		},
+		{
+			"siteName": "248 - HEREFORD",
+			"tagged": "FALSE",
+			"number": "248",
+			"type": "Safeway - Superstore",
+			"id": 78861,
+			"dex_name": "Hereford Commercial Rd"
+		},
+		{
+			"siteName": "402 - HERNE BAY",
+			"tagged": "FALSE",
+			"number": "402",
+			"type": "Safeway - Small",
+			"id": 77848,
+			"dex_name": "Herne bay Beach Street"
+		},
+		{
+			"siteName": "032 - HEYWOOD",
+			"tagged": "FALSE",
+			"number": "032",
+			"type": "Core - Supermarket",
+			"id": 78865,
+			"dex_name": "Heywood Dawson Street"
+		},
+		{
+			"siteName": "300 - HIGH WYCOMBE",
+			"tagged": "FALSE",
+			"number": "300",
+			"type": "Safeway - Megastore",
+			"id": 78866,
+			"dex_name": "High Wycombe Temple End"
+		},
+		{
+			"siteName": "050 - STOKE ",
+			"tagged": "FALSE",
+			"number": "050",
+			"type": "Core - Large",
+			"id": 78867,
+			"dex_name": "Hinckley Stoke Rd"
+		},
+		{
+			"siteName": "571 - HODDESDON",
+			"tagged": "FALSE",
+			"number": "571",
+			"type": "Core - Supermarket",
+			"id": 78868,
+			"dex_name": "Hoddesdon"
+		},
+		{
+			"siteName": "368 - HOLBROOK",
+			"tagged": "FALSE",
+			"number": "368",
+			"type": "Core - Supermarket",
+			"id": 78869,
+			"dex_name": "Holbrook  Coventry"
+		},
+		{
+			"siteName": "425 - HOLYHEAD",
+			"tagged": "FALSE",
+			"number": "425",
+			"type": "Core - Supermarket",
+			"id": 78870,
+			"dex_name": "Holyhead Penrhos"
+		},
+		{
+			"siteName": "354 - HORNDEAN",
+			"tagged": "FALSE",
+			"number": "354",
+			"type": "Safeway - Superstore",
+			"id": 77849,
+			"dex_name": "Horndean Lakesmere Rd"
+		},
+		{
+			"siteName": "518 - HOUGHTON REGIS",
+			"tagged": "FALSE",
+			"number": "518",
+			"type": "Core - Supermarket",
+			"id": 78872,
+			"dex_name": "Houghton Regis"
+		},
+		{
+			"siteName": "079 - HUDDERSFIELD",
+			"tagged": "TRUE",
+			"number": "079",
+			"type": "Core - Large",
+			"id": 78873,
+			"dex_name": "Huddersfield Waterloo"
+		},
+		{
+			"siteName": "107 - ANLABY",
+			"tagged": "TRUE",
+			"number": "107",
+			"type": "Core - Large",
+			"id": 78874,
+			"dex_name": "Hull Anlaby"
+		},
+		{
+			"siteName": "119 - HYDE",
+			"tagged": "FALSE",
+			"number": "119",
+			"type": "Core - Large",
+			"id": 78878,
+			"dex_name": "Hyde Mottram Road"
+		},
+		{
+			"siteName": "674 - ILKESTON",
+			"tagged": "FALSE",
+			"number": "674",
+			"type": "Core - Large",
+			"id": 78879,
+			"dex_name": "Ilkeston - Nottingham Road"
+		},
+		{
+			"siteName": "025 - INCE",
+			"tagged": "TRUE",
+			"number": "025",
+			"type": "Core - Large",
+			"id": 78880,
+			"dex_name": "Ince in Makerfield Way"
+		},
+		{
+			"siteName": "188 - INVERNESS",
+			"tagged": "FALSE",
+			"number": "188",
+			"type": "Safeway - Superstore",
+			"id": 78881,
+			"dex_name": "Inverness Millburn Rd"
+		},
+		{
+			"siteName": "189 - INVERURIE",
+			"tagged": "FALSE",
+			"number": "189",
+			"type": "Safeway - Superstore",
+			"id": 107198,
+			"dex_name": "Inverurie "
+		},
+		{
+			"siteName": "081 - IPSWICH",
+			"tagged": "TRUE",
+			"number": "081",
+			"type": "Core - Large",
+			"id": 78882,
+			"dex_name": "Ipswich Sproughton Road"
+		},
+		{
+			"siteName": "088 - JARROW",
+			"tagged": "FALSE",
+			"number": "088",
+			"type": "Core - Supermarket",
+			"id": 78883,
+			"dex_name": "Jarrow Viking Precinct"
+		},
+		{
+			"siteName": "156 - JOHNSTONE",
+			"tagged": "FALSE",
+			"number": "156",
+			"type": "Core - Large",
+			"id": 78884,
+			"dex_name": "Johnstone"
+		},
+		{
+			"siteName": "005 - KEIGHLEY",
+			"tagged": "TRUE",
+			"number": "005",
+			"type": "Core - Large",
+			"id": 78885,
+			"dex_name": "Keighley"
+		},
+		{
+			"siteName": "055 - KENDAL",
+			"tagged": "TRUE",
+			"number": "055",
+			"type": "Core - Large",
+			"id": 78886,
+			"dex_name": "Kendal Old Showground"
+		},
+		{
+			"siteName": "111 - KETTERING",
+			"tagged": "TRUE",
+			"number": "111",
+			"type": "Core - Large",
+			"id": 78887,
+			"dex_name": "Kettering Lower Street"
+		},
+		{
+			"siteName": "691 - KIDDERMINSTER",
+			"tagged": "FALSE",
+			"number": "691",
+			"type": "Core - Large",
+			"id": 78888,
+			"dex_name": "Kidderminster Green Street"
+		},
+		{
+			"siteName": "117 - KILMARNOCK",
+			"tagged": "FALSE",
+			"number": "117",
+			"type": "Core - Large",
+			"id": 78889,
+			"dex_name": "Kilmarnock West Langlands Street"
+		},
+		{
+			"siteName": "499 - KINGSBRIDGE",
+			"tagged": "FALSE",
+			"number": "499",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78891,
+			"dex_name": "Kingsbridge"
+		},
+		{
+			"siteName": "103 - KINGS LYNN",
+			"tagged": "TRUE",
+			"number": "103",
+			"type": "Core - Large",
+			"id": 78890,
+			"dex_name": "Kings Lynn Coburg Street"
+		},
+		{
+			"siteName": "512 - KIRKBY IN ASHFIELD",
+			"tagged": "FALSE",
+			"number": "512",
+			"type": "Core - Large",
+			"id": 78892,
+			"dex_name": "Kirkby In Ashfield"
+		},
+		{
+			"siteName": "582 - KIRKCALDY",
+			"tagged": "FALSE",
+			"number": "582",
+			"type": "Core - Large",
+			"id": 78893,
+			"dex_name": "Kirkcaldy"
+		},
+		{
+			"siteName": "384 - KIRKHAM",
+			"tagged": "FALSE",
+			"number": "384",
+			"type": "Safeway - Small",
+			"id": 78894,
+			"dex_name": "Kirkham Poulton St"
+		},
+		{
+			"siteName": "144 - KNOTTINGLEY",
+			"tagged": "FALSE",
+			"number": "144",
+			"type": "Core - Large",
+			"id": 78895,
+			"dex_name": "Knottingley"
+		},
+		{
+			"siteName": "500 - LANARK",
+			"tagged": "FALSE",
+			"number": "500",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78896,
+			"dex_name": "Lanark"
+		},
+		{
+			"siteName": "190 - LARGS",
+			"tagged": "FALSE",
+			"number": "190",
+			"type": "Safeway - Small",
+			"id": 78897,
+			"dex_name": "Largs Irvine Rd"
+		},
+		{
+			"siteName": "262 - STONE",
+			"tagged": "FALSE",
+			"number": "262",
+			"type": "Safeway - Superstore",
+			"id": 77850,
+			"dex_name": "Larkfield Maidstone"
+		},
+		{
+			"siteName": "547 - LEAMINGTON SPA",
+			"tagged": "FALSE",
+			"number": "547",
+			"type": "Core - Large",
+			"id": 78898,
+			"dex_name": "Leamington Spa"
+		},
+		{
+			"siteName": "017 - HORSFORTH",
+			"tagged": "FALSE",
+			"number": "017",
+			"type": "Core - Supermarket",
+			"id": 78915,
+			"dex_name": "Leeds Horsforth"
+		},
+		{
+			"siteName": "015 - HUNSLET",
+			"tagged": "TRUE",
+			"number": "015",
+			"type": "Core - Large",
+			"id": 78916,
+			"dex_name": "Leeds Hunslet"
+		},
+		{
+			"siteName": "089 - KIRKSTALL",
+			"tagged": "TRUE",
+			"number": "089",
+			"type": "Core - Large",
+			"id": 78917,
+			"dex_name": "Leeds Kirkstall"
+		},
+		{
+			"siteName": "010 - MERRION CENTRE",
+			"tagged": "FALSE",
+			"number": "010",
+			"type": "Core - Supermarket",
+			"id": 78918,
+			"dex_name": "Leeds Merrion Centre"
+		},
+		{
+			"siteName": "011 - MORLEY",
+			"tagged": "FALSE",
+			"number": "011",
+			"type": "Core - Supermarket",
+			"id": 78919,
+			"dex_name": "Leeds Morley"
+		},
+		{
+			"siteName": "419 - ROTHWELL",
+			"tagged": "FALSE",
+			"number": "419",
+			"type": "Core - Large",
+			"id": 77857,
+			"dex_name": "Leeds Rothwell Jailhouse Yard"
+		},
+		{
+			"siteName": "007 - YEADON",
+			"tagged": "TRUE",
+			"number": "007",
+			"type": "Core - Supermarket",
+			"id": 78921,
+			"dex_name": "Leeds Yeadon"
+		},
+		{
+			"siteName": "251 - LEEK",
+			"tagged": "FALSE",
+			"number": "251",
+			"type": "Safeway - Superstore",
+			"id": 78922,
+			"dex_name": "Leek Barnfield Close"
+		},
+		{
+			"siteName": "234 - LEICESTER",
+			"tagged": "FALSE",
+			"number": "234",
+			"type": "Safeway - Superstore",
+			"id": 78923,
+			"dex_name": "Leicester Freemans Pk"
+		},
+		{
+			"siteName": "508 - LEIGH",
+			"tagged": "FALSE",
+			"number": "508",
+			"type": "Core - Large",
+			"id": 78924,
+			"dex_name": "Leigh Sports Village"
+		},
+		{
+			"siteName": "301 - LEIGHTON BUZZARD",
+			"tagged": "FALSE",
+			"number": "301",
+			"type": "Safeway - Superstore",
+			"id": 78925,
+			"dex_name": "Leighton Buzzard Lake St"
+		},
+		{
+			"siteName": "252 - LEOMINSTER",
+			"tagged": "FALSE",
+			"number": "252",
+			"type": "Safeway - Superstore",
+			"id": 78926,
+			"dex_name": "Leominster Barons Cross Rd"
+		},
+		{
+			"siteName": "126 - LETCHWORTH",
+			"tagged": "FALSE",
+			"number": "126",
+			"type": "Core - Supermarket",
+			"id": 107187,
+			"dex_name": "Letchworth Broadway"
+		},
+		{
+			"siteName": "151 - LEYLAND",
+			"tagged": "FALSE",
+			"number": "151",
+			"type": "Core - Large",
+			"id": 78927,
+			"dex_name": "Leyland Olympian Way"
+		},
+		{
+			"siteName": "253 - LICHFIELD",
+			"tagged": "FALSE",
+			"number": "253",
+			"type": "Safeway - Superstore",
+			"id": 78928,
+			"dex_name": "Lichfield Beacon St"
+		},
+		{
+			"siteName": "062 - LINCOLN",
+			"tagged": "TRUE",
+			"number": "062",
+			"type": "Core - Large",
+			"id": 78929,
+			"dex_name": "Lincoln Triton Road"
+		},
+		{
+			"siteName": "328 - LISKEARD",
+			"tagged": "FALSE",
+			"number": "328",
+			"type": "Safeway - Superstore",
+			"id": 78930,
+			"dex_name": "Liskeard Horningtops"
+		},
+		{
+			"siteName": "630 - LITTLEHAMPTON",
+			"tagged": "FALSE",
+			"number": "630",
+			"type": "Core - Supermarket",
+			"id": 78931,
+			"dex_name": "Littlehampton - Wick"
+		},
+		{
+			"siteName": "097 - BELLE VALE",
+			"tagged": "TRUE",
+			"number": "097",
+			"type": "Core - Large",
+			"id": 78932,
+			"dex_name": "Liverpool Belle Vale"
+		},
+		{
+			"siteName": "150 - LIVINGSTON",
+			"tagged": "FALSE",
+			"number": "150",
+			"type": "Core - Large",
+			"id": 78933,
+			"dex_name": "Livingston Almondvale Road"
+		},
+		{
+			"siteName": "150 - LIVINGSTON",
+			"tagged": "FALSE",
+			"number": "150",
+			"type": "Core - Large",
+			"id": 78934,
+			"dex_name": "Livingston Carmondean Ctre"
+		},
+		{
+			"siteName": "692 - LLANELLI",
+			"tagged": "FALSE",
+			"number": "692",
+			"type": "Core - Large",
+			"id": 78935,
+			"dex_name": "Llanelli Pemberton Retail Park"
+		},
+		{
+			"siteName": "302 - ACTON",
+			"tagged": "FALSE",
+			"number": "302",
+			"type": "Safeway - Superstore",
+			"id": 77858,
+			"dex_name": "London Acton"
+		},
+		{
+			"siteName": "303 - CAMDEN",
+			"tagged": "FALSE",
+			"number": "303",
+			"type": "Safeway - Megastore",
+			"id": 77859,
+			"dex_name": "London Camden Town"
+		},
+		{
+			"siteName": "001 - CHINGFORD",
+			"tagged": "TRUE",
+			"number": "001",
+			"type": "Core - Large",
+			"id": 78938,
+			"dex_name": "London Chingford"
+		},
+		{
+			"siteName": "373 - COLINDALE",
+			"tagged": "FALSE",
+			"number": "373",
+			"type": "Core - Large",
+			"id": 78936,
+			"dex_name": "London - Colindale"
+		},
+		{
+			"siteName": "205 - EALING",
+			"tagged": "FALSE",
+			"number": "205",
+			"type": "Core - Supermarket",
+			"id": 78937,
+			"dex_name": "London - Ealing Broadway"
+		},
+		{
+			"siteName": "092 - ENFIELD",
+			"tagged": "FALSE",
+			"number": "092",
+			"type": "Core - Supermarket",
+			"id": 78939,
+			"dex_name": "London Enfield"
+		},
+		{
+			"siteName": "113 - ERITH",
+			"tagged": "TRUE",
+			"number": "113",
+			"type": "Core - Large",
+			"id": 77860,
+			"dex_name": "London Erith"
+		},
+		{
+			"siteName": "299 - HATCH END",
+			"tagged": "FALSE",
+			"number": "299",
+			"type": "Safeway - Superstore",
+			"id": 78940,
+			"dex_name": "London Harrow Hatch End"
+		},
+		{
+			"siteName": "304 - HOLLOWAY",
+			"tagged": "FALSE",
+			"number": "304",
+			"type": "Safeway - Superstore",
+			"id": 77861,
+			"dex_name": "London Holloway"
+		},
+		{
+			"siteName": "305 - PALMERS GREEN",
+			"tagged": "FALSE",
+			"number": "305",
+			"type": "Safeway - Superstore",
+			"id": 78941,
+			"dex_name": "London Palmers Green"
+		},
+		{
+			"siteName": "306 - PECKHAM",
+			"tagged": "FALSE",
+			"number": "306",
+			"type": "Safeway - Superstore",
+			"id": 77862,
+			"dex_name": "London Peckham"
+		},
+		{
+			"siteName": "413 - PETTS WOOD",
+			"tagged": "FALSE",
+			"number": "413",
+			"type": "Safeway - Small",
+			"id": 77863,
+			"dex_name": "London Petts Wood"
+		},
+		{
+			"siteName": "307 - QUEENSBURY",
+			"tagged": "FALSE",
+			"number": "307",
+			"type": "Safeway - Superstore",
+			"id": 78942,
+			"dex_name": "London Queensbury"
+		},
+		{
+			"siteName": "633 - SOUTHWARK",
+			"tagged": "FALSE",
+			"number": "633",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 77864,
+			"dex_name": "London Southwark"
+		},
+		{
+			"siteName": "046 - STAMFORD",
+			"tagged": "TRUE",
+			"number": "046",
+			"type": "Core - Large",
+			"id": 77865,
+			"dex_name": "London Stamford Hill"
+		},
+		{
+			"siteName": "309 - STRATFORD",
+			"tagged": "FALSE",
+			"number": "309",
+			"type": "Safeway - Superstore",
+			"id": 77866,
+			"dex_name": "London Stratford"
+		},
+		{
+			"siteName": "311 - THAMESMEAD",
+			"tagged": "FALSE",
+			"number": "311",
+			"type": "Safeway - Megastore",
+			"id": 77867,
+			"dex_name": "London Thamesmead"
+		},
+		{
+			"siteName": "411 - WIMBLEDON",
+			"tagged": "FALSE",
+			"number": "411",
+			"type": "Safeway - Superstore",
+			"id": 77868,
+			"dex_name": "London Wimbledon"
+		},
+		{
+			"siteName": "313 - WOOD GREEN",
+			"tagged": "FALSE",
+			"number": "313",
+			"type": "Safeway - Superstore",
+			"id": 78757,
+			"dex_name": "London Wood Green"
+		},
+		{
+			"siteName": "235 - LOUGHBOROUGH",
+			"tagged": "FALSE",
+			"number": "235",
+			"type": "Safeway - Superstore",
+			"id": 78944,
+			"dex_name": "Loughborough Thorpe Acre"
+		},
+		{
+			"siteName": "314 - LOUGHTON",
+			"tagged": "FALSE",
+			"number": "314",
+			"type": "Safeway - Superstore",
+			"id": 78945,
+			"dex_name": "Loughton High Rd"
+		},
+		{
+			"siteName": "650 - LOUTH",
+			"tagged": "FALSE",
+			"number": "650",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78946,
+			"dex_name": "Louth"
+		},
+		{
+			"siteName": "286 - LOWESTOFT",
+			"tagged": "FALSE",
+			"number": "286",
+			"type": "Safeway - Superstore",
+			"id": 78947,
+			"dex_name": "Lowestoft North Quay"
+		},
+		{
+			"siteName": "286 - LOWESTOFT",
+			"tagged": "FALSE",
+			"number": "286",
+			"type": "Safeway - Superstore",
+			"id": 78948,
+			"dex_name": "Lowestoft Tower Rd"
+		},
+		{
+			"siteName": "387 - LUTTERWORTH",
+			"tagged": "FALSE",
+			"number": "387",
+			"type": "Safeway - Small",
+			"id": 78949,
+			"dex_name": "Lutterworth Bitteswell Rd"
+		},
+		{
+			"siteName": "651 - MAGHULL",
+			"tagged": "FALSE",
+			"number": "651",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78950,
+			"dex_name": "Maghull"
+		},
+		{
+			"siteName": "262 - STONE",
+			"tagged": "FALSE",
+			"number": "262",
+			"type": "Safeway - Superstore",
+			"id": 77869,
+			"dex_name": "Maidstone Sutton Rd"
+		},
+		{
+			"siteName": "287 - MALDON",
+			"tagged": "FALSE",
+			"number": "287",
+			"type": "Safeway - Superstore",
+			"id": 78951,
+			"dex_name": "Maldon Limebrook Way"
+		},
+		{
+			"siteName": "226 - MALTON",
+			"tagged": "FALSE",
+			"number": "226",
+			"type": "Safeway - Superstore",
+			"id": 79525,
+			"dex_name": "Malton Castlegate"
+		},
+		{
+			"siteName": "254 - MALVERN",
+			"tagged": "FALSE",
+			"number": "254",
+			"type": "Safeway - Megastore",
+			"id": 78952,
+			"dex_name": "Malvern Roman Way"
+		},
+		{
+			"siteName": "131 - CHESTER",
+			"tagged": "FALSE",
+			"number": "131",
+			"type": "Safeway - Superstore",
+			"id": 78953,
+			"dex_name": "Manchester Grafton Street"
+		},
+		{
+			"siteName": "131 - CHESTER",
+			"tagged": "FALSE",
+			"number": "131",
+			"type": "Safeway - Superstore",
+			"id": 78954,
+			"dex_name": "Manchester - Piccadilly Gardens"
+		},
+		{
+			"siteName": "023 - MANSFIELD",
+			"tagged": "TRUE",
+			"number": "023",
+			"type": "Core - Large",
+			"id": 78756,
+			"dex_name": "Mansfield Sutton Road"
+		},
+		{
+			"siteName": "023 - MANSFIELD",
+			"tagged": "TRUE",
+			"number": "023",
+			"type": "Core - Large",
+			"id": 78955,
+			"dex_name": "Mansfield Woodhouse"
+		},
+		{
+			"siteName": "643 - MARGATE",
+			"tagged": "FALSE",
+			"number": "643",
+			"type": "Core - Small",
+			"id": 77871,
+			"dex_name": "Margate"
+		},
+		{
+			"siteName": "395 - MARKET DRAYTON",
+			"tagged": "FALSE",
+			"number": "395",
+			"type": "Safeway - Superstore",
+			"id": 78956,
+			"dex_name": "Market Drayton Adderley Rd"
+		},
+		{
+			"siteName": "227 - MELTHAM",
+			"tagged": "FALSE",
+			"number": "227",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78957,
+			"dex_name": "Meltham Station St"
+		},
+		{
+			"siteName": "236 - MELTON MOWBRAY",
+			"tagged": "FALSE",
+			"number": "236",
+			"type": "Safeway - Superstore",
+			"id": 78959,
+			"dex_name": "Melton Mowbray Sherrard St"
+		},
+		{
+			"siteName": "128 - MIDDLESBROUGH",
+			"tagged": "FALSE",
+			"number": "128",
+			"type": "Core - Large",
+			"id": 78960,
+			"dex_name": "Middlesbrough Berwick Hills"
+		},
+		{
+			"siteName": "551 - MIDDLEWICH",
+			"tagged": "FALSE",
+			"number": "551",
+			"type": "Core - Small",
+			"id": 78963,
+			"dex_name": "Middlewich"
+		},
+		{
+			"siteName": "099 - MILTON KEYNES",
+			"tagged": "TRUE",
+			"number": "099",
+			"type": "Safeway - Megastore",
+			"id": 78964,
+			"dex_name": "Milton Keynes - Leisure Plaza"
+		},
+		{
+			"siteName": "099 - MILTON KEYNES",
+			"tagged": "TRUE",
+			"number": "099",
+			"type": "Safeway - Megastore",
+			"id": 78965,
+			"dex_name": "Milton Keynes Westcroft"
+		},
+		{
+			"siteName": "372 - MINEHEAD",
+			"tagged": "FALSE",
+			"number": "372",
+			"type": "Core - Supermarket",
+			"id": 78968,
+			"dex_name": "Minehead"
+		},
+		{
+			"siteName": "527 - MITCHAM",
+			"tagged": "FALSE",
+			"number": "527",
+			"type": "Core - Small",
+			"id": 77872,
+			"dex_name": "Mitcham"
+		},
+		{
+			"siteName": "074 - MORECAMBE",
+			"tagged": "TRUE",
+			"number": "074",
+			"type": "Core - Large",
+			"id": 78969,
+			"dex_name": "Morecambe Central Drive"
+		},
+		{
+			"siteName": "381 - MORPETH",
+			"tagged": "FALSE",
+			"number": "381",
+			"type": "Safeway - Superstore",
+			"id": 78970,
+			"dex_name": "Morpeth"
+		},
+		{
+			"siteName": "538 - NAILSWORTH",
+			"tagged": "FALSE",
+			"number": "538",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78971,
+			"dex_name": "Nailsworth"
+		},
+		{
+			"siteName": "255 - NANTWICH",
+			"tagged": "FALSE",
+			"number": "255",
+			"type": "Safeway - Superstore",
+			"id": 78972,
+			"dex_name": "Nantwich Station Rd"
+		},
+		{
+			"siteName": "274 - NEATH",
+			"tagged": "FALSE",
+			"number": "274",
+			"type": "Safeway - Superstore",
+			"id": 78973,
+			"dex_name": "Neath Angel St"
+		},
+		{
+			"siteName": "104 - NELSON",
+			"tagged": "FALSE",
+			"number": "104",
+			"type": "Core - Supermarket",
+			"id": 78974,
+			"dex_name": "Nelson Pendle Street"
+		},
+		{
+			"siteName": "048 - NEWARK",
+			"tagged": "FALSE",
+			"number": "048",
+			"type": "Core - Supermarket",
+			"id": 78978,
+			"dex_name": "Newark Kings Road"
+		},
+		{
+			"siteName": "480 - BRIGHTON",
+			"tagged": "FALSE",
+			"number": "480",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78975,
+			"dex_name": "New Brighton"
+		},
+		{
+			"siteName": "091 - BYKER",
+			"tagged": "FALSE",
+			"number": "091",
+			"type": "Core - Supermarket",
+			"id": 78981,
+			"dex_name": "Newcastle UT Byker"
+		},
+		{
+			"siteName": "206 - COWGATE",
+			"tagged": "FALSE",
+			"number": "206",
+			"type": "Safeway - Superstore",
+			"id": 78994,
+			"dex_name": "Newcastle UT Cowgate"
+		},
+		{
+			"siteName": "035 - KILLINGWORTH",
+			"tagged": "FALSE",
+			"number": "035",
+			"type": "Core - Large",
+			"id": 107175,
+			"dex_name": "Newcastle UT Killingworth"
+		},
+		{
+			"siteName": "539 - NEW MILTON",
+			"tagged": "FALSE",
+			"number": "539",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 77873,
+			"dex_name": "New Milton"
+		},
+		{
+			"siteName": "407 - NEWPORT",
+			"tagged": "FALSE",
+			"number": "407",
+			"type": "Core - Supermarket",
+			"id": 78995,
+			"dex_name": "Newport"
+		},
+		{
+			"siteName": "087 - ROGERSTONE",
+			"tagged": "FALSE",
+			"number": "087",
+			"type": "Core - Supermarket",
+			"id": 78996,
+			"dex_name": "Newport (Gwent) Rogerstone"
+		},
+		{
+			"siteName": "407 - NEWPORT",
+			"tagged": "FALSE",
+			"number": "407",
+			"type": "Core - Supermarket",
+			"id": 77874,
+			"dex_name": "Newport (IOW) South St"
+		},
+		{
+			"siteName": "329 - NEWQUAY",
+			"tagged": "FALSE",
+			"number": "329",
+			"type": "Safeway - Megastore",
+			"id": 78997,
+			"dex_name": "Newquay Treloggan Rd"
+		},
+		{
+			"siteName": "397 - NEWTOWN",
+			"tagged": "FALSE",
+			"number": "397",
+			"type": "Safeway - Superstore",
+			"id": 78998,
+			"dex_name": "Newtown Pool Rd"
+		},
+		{
+			"siteName": "100 - NORTHAMPTON",
+			"tagged": "TRUE",
+			"number": "100",
+			"type": "Core - Large",
+			"id": 78999,
+			"dex_name": "Northampton Kettering Road"
+		},
+		{
+			"siteName": "004 - VICTORIA",
+			"tagged": "TRUE",
+			"number": "004",
+			"type": "Core - Large",
+			"id": 79000,
+			"dex_name": "Northampton Victoria Promenade"
+		},
+		{
+			"siteName": "385 - CATTON",
+			"tagged": "FALSE",
+			"number": "385",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 79001,
+			"dex_name": "Norwich Catton"
+		},
+		{
+			"siteName": "115 - NORWICH RIVERSIDE",
+			"tagged": "TRUE",
+			"number": "115",
+			"type": "Core - Large",
+			"id": 79002,
+			"dex_name": "Norwich Riverside"
+		},
+		{
+			"siteName": "121 - BULWELL",
+			"tagged": "FALSE",
+			"number": "121",
+			"type": "Core - Large",
+			"id": 78993,
+			"dex_name": "Nottingham Bulwell"
+		},
+		{
+			"siteName": "448 - CLIFTON",
+			"tagged": "FALSE",
+			"number": "448",
+			"type": "Core - Small",
+			"id": 78992,
+			"dex_name": "Nottingham Clifton Green Lane"
+		},
+		{
+			"siteName": "239 - EASTWOOD",
+			"tagged": "FALSE",
+			"number": "239",
+			"type": "Safeway - Superstore",
+			"id": 78990,
+			"dex_name": "Nottingham Eastwood"
+		},
+		{
+			"siteName": "238 - GAMSTON",
+			"tagged": "FALSE",
+			"number": "238",
+			"type": "Safeway - Megastore",
+			"id": 78989,
+			"dex_name": "Nottingham Gamston"
+		},
+		{
+			"siteName": "067 - NETHERFIELD",
+			"tagged": "TRUE",
+			"number": "067",
+			"type": "Core - Large",
+			"id": 78988,
+			"dex_name": "Nottingham Netherfield"
+		},
+		{
+			"siteName": "057 - OLDHAM",
+			"tagged": "TRUE",
+			"number": "057",
+			"type": "Core - Large",
+			"id": 78985,
+			"dex_name": "Oldham Chadderton"
+		},
+		{
+			"siteName": "391 - OPENSHAW",
+			"tagged": "FALSE",
+			"number": "391",
+			"type": "Core - Supermarket",
+			"id": 78983,
+			"dex_name": "Openshaw"
+		},
+		{
+			"siteName": "213 - ORMSKIRK",
+			"tagged": "FALSE",
+			"number": "213",
+			"type": "Safeway - Superstore",
+			"id": 78982,
+			"dex_name": "Ormskirk Park Rd"
+		},
+		{
+			"siteName": "540 - OSWESTRY",
+			"tagged": "FALSE",
+			"number": "540",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 107196,
+			"dex_name": "Oswestry "
+		},
+		{
+			"siteName": "356 - OXTED",
+			"tagged": "FALSE",
+			"number": "356",
+			"type": "Safeway - Superstore",
+			"id": 79003,
+			"dex_name": "Oxted Station Yard"
+		},
+		{
+			"siteName": "330 - PAIGNTON",
+			"tagged": "FALSE",
+			"number": "330",
+			"type": "Safeway - Superstore",
+			"id": 79004,
+			"dex_name": "Paignton Totnes Rd"
+		},
+		{
+			"siteName": "139 - PAISLEY ANCHOR MILLS",
+			"tagged": "FALSE",
+			"number": "139",
+			"type": "Core - Large",
+			"id": 79005,
+			"dex_name": "Paisley Anchor Mills"
+		},
+		{
+			"siteName": "214 - PENRITH",
+			"tagged": "FALSE",
+			"number": "214",
+			"type": "Safeway - Superstore",
+			"id": 79007,
+			"dex_name": "Penrith Brunswick Rd"
+		},
+		{
+			"siteName": "331 - PENZANCE",
+			"tagged": "FALSE",
+			"number": "331",
+			"type": "Safeway - Superstore",
+			"id": 79008,
+			"dex_name": "Penzance Long Rock"
+		},
+		{
+			"siteName": "193 - PERTH",
+			"tagged": "FALSE",
+			"number": "193",
+			"type": "Safeway - Superstore",
+			"id": 79009,
+			"dex_name": "Perth Caledonian Rd"
+		},
+		{
+			"siteName": "062 - LINCOLN",
+			"tagged": "TRUE",
+			"number": "062",
+			"type": "Core - Large",
+			"id": 79010,
+			"dex_name": "Peterborough Lincoln Rd"
+		},
+		{
+			"siteName": "194 - PETERHEAD",
+			"tagged": "FALSE",
+			"number": "194",
+			"type": "Safeway - Superstore",
+			"id": 79011,
+			"dex_name": "Peterhead Queen St"
+		},
+		{
+			"siteName": "332 - PLYMOUTH",
+			"tagged": "FALSE",
+			"number": "332",
+			"type": "Safeway - Superstore",
+			"id": 79012,
+			"dex_name": "Plymouth Outland Rd"
+		},
+		{
+			"siteName": "333 - PLYMSTOCK",
+			"tagged": "FALSE",
+			"number": "333",
+			"type": "Safeway - Megastore",
+			"id": 79013,
+			"dex_name": "Plymstock Pomphlett Rd"
+		},
+		{
+			"siteName": "051 - PONTEFRACT",
+			"tagged": "FALSE",
+			"number": "051",
+			"type": "Core - Supermarket",
+			"id": 79014,
+			"dex_name": "Pontefract Stuart Road"
+		},
+		{
+			"siteName": "652 - PORTH",
+			"tagged": "FALSE",
+			"number": "652",
+			"type": "Core - Supermarket",
+			"id": 79016,
+			"dex_name": "Porth"
+		},
+		{
+			"siteName": "358 - PORTSMOUTH",
+			"tagged": "FALSE",
+			"number": "358",
+			"type": "Safeway - Small",
+			"id": 77875,
+			"dex_name": "Portsmouth"
+		},
+		{
+			"siteName": "358 - PORTSMOUTH",
+			"tagged": "FALSE",
+			"number": "358",
+			"type": "Safeway - Small",
+			"id": 79017,
+			"dex_name": "Portsmouth"
+		},
+		{
+			"siteName": "358 - PORTSMOUTH",
+			"tagged": "FALSE",
+			"number": "358",
+			"type": "Safeway - Small",
+			"id": 77876,
+			"dex_name": "Portsmouth Anchorage Pk"
+		},
+		{
+			"siteName": "096 - BAGLAN",
+			"tagged": "TRUE",
+			"number": "096",
+			"type": "Core - Large",
+			"id": 79015,
+			"dex_name": "Port Talbot Baglan"
+		},
+		{
+			"siteName": "574 - POYNTON",
+			"tagged": "FALSE",
+			"number": "574",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 79018,
+			"dex_name": "Poynton"
+		},
+		{
+			"siteName": "066 - BLACKPOOL",
+			"tagged": "TRUE",
+			"number": "066",
+			"type": "Core - Large",
+			"id": 79019,
+			"dex_name": "Preston - Blackpool Road"
+		},
+		{
+			"siteName": "041 - PRESTON RIVERSWAY",
+			"tagged": "TRUE",
+			"number": "041",
+			"type": "Core - Large",
+			"id": 79020,
+			"dex_name": "Preston Riversway"
+		},
+		{
+			"siteName": "605 - RAMSBOTTOM",
+			"tagged": "FALSE",
+			"number": "605",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 79021,
+			"dex_name": "Ramsbottom"
+		},
+		{
+			"siteName": "050 - STOKE ",
+			"tagged": "FALSE",
+			"number": "050",
+			"type": "Core - Large",
+			"id": 79022,
+			"dex_name": "Reading Basingstoke Lane"
+		},
+		{
+			"siteName": "080 - REDCAR",
+			"tagged": "TRUE",
+			"number": "080",
+			"type": "Core - Large",
+			"id": 79023,
+			"dex_name": "Redcar Lord Street"
+		},
+		{
+			"siteName": "257 - REDDITCH",
+			"tagged": "FALSE",
+			"number": "257",
+			"type": "Safeway - Superstore",
+			"id": 79024,
+			"dex_name": "Redditch Warwick Highway"
+		},
+		{
+			"siteName": "334 - REDRUTH",
+			"tagged": "FALSE",
+			"number": "334",
+			"type": "Safeway - Superstore",
+			"id": 79025,
+			"dex_name": "Redruth Agor Rd"
+		},
+		{
+			"siteName": "360 - REIGATE",
+			"tagged": "FALSE",
+			"number": "360",
+			"type": "Safeway - Superstore",
+			"id": 77877,
+			"dex_name": "Reigate Bell St"
+		},
+		{
+			"siteName": "114 - RETFORD",
+			"tagged": "TRUE",
+			"number": "114",
+			"type": "Core - Large",
+			"id": 79033,
+			"dex_name": "Retford Idle Valley Road"
+		},
+		{
+			"siteName": "129 - RHYL",
+			"tagged": "FALSE",
+			"number": "129",
+			"type": "Core - Supermarket",
+			"id": 79034,
+			"dex_name": "Rhyl Marsh Road"
+		},
+		{
+			"siteName": "133 - RIPON",
+			"tagged": "FALSE",
+			"number": "133",
+			"type": "Safeway - Superstore",
+			"id": 79035,
+			"dex_name": "Ripon Harrogate Rd"
+		},
+		{
+			"siteName": "053 - ROCHDALE",
+			"tagged": "TRUE",
+			"number": "053",
+			"type": "Core - Large",
+			"id": 79036,
+			"dex_name": "Rochdale Kingsway"
+		},
+		{
+			"siteName": "258 - ROSS ON WYE",
+			"tagged": "FALSE",
+			"number": "258",
+			"type": "Safeway - Superstore",
+			"id": 79037,
+			"dex_name": "Ross on Wye Station St"
+		},
+		{
+			"siteName": "039 - ROTHERHAM BRAMLEY",
+			"tagged": "TRUE",
+			"number": "039",
+			"type": "Core - Large",
+			"id": 79038,
+			"dex_name": "Rotherham Bramley"
+		},
+		{
+			"siteName": "029 - ROTHERHAM CATCLIFFE",
+			"tagged": "TRUE",
+			"number": "029",
+			"type": "Core - Large",
+			"id": 79039,
+			"dex_name": "Rotherham Catcliffe"
+		},
+		{
+			"siteName": "061 - PARKGATE",
+			"tagged": "TRUE",
+			"number": "061",
+			"type": "Core - Large",
+			"id": 79040,
+			"dex_name": "Rotherham Parkgate"
+		},
+		{
+			"siteName": "607 - ROYSTON",
+			"tagged": "FALSE",
+			"number": "607",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 79041,
+			"dex_name": "Royston"
+		},
+		{
+			"siteName": "259 - RUBERY",
+			"tagged": "FALSE",
+			"number": "259",
+			"type": "Safeway - Megastore",
+			"id": 79042,
+			"dex_name": "Rubery Bristol Rd South"
+		},
+		{
+			"siteName": "260 - RUGELEY",
+			"tagged": "FALSE",
+			"number": "260",
+			"type": "Safeway - Small",
+			"id": 79043,
+			"dex_name": "Rugeley Market St"
+		},
+		{
+			"siteName": "677 - SALTNEY",
+			"tagged": "FALSE",
+			"number": "677",
+			"type": "Core - Supermarket",
+			"id": 79044,
+			"dex_name": "Saltney"
+		},
+		{
+			"siteName": "076 - SCARBOROUGH",
+			"tagged": "TRUE",
+			"number": "076",
+			"type": "Core - Large",
+			"id": 79045,
+			"dex_name": "Scarborough Eastfield"
+		},
+		{
+			"siteName": "070 - SCUNTHORPE",
+			"tagged": "TRUE",
+			"number": "070",
+			"type": "Core - Large",
+			"id": 79046,
+			"dex_name": "Scunthorpe Lakeside Parkway"
+		},
+		{
+			"siteName": "362 - SEAFORD",
+			"tagged": "FALSE",
+			"number": "362",
+			"type": "Safeway - Small",
+			"id": 77879,
+			"dex_name": "Seaford Dane Rd"
+		},
+		{
+			"siteName": "228 - SELBY",
+			"tagged": "FALSE",
+			"number": "228",
+			"type": "Safeway - Superstore",
+			"id": 79049,
+			"dex_name": "Selby Market Cross"
+		},
+		{
+			"siteName": "072 - ECCLESFIELD",
+			"tagged": "TRUE",
+			"number": "072",
+			"type": "Core - Large",
+			"id": 79051,
+			"dex_name": "Sheffield Ecclesfield"
+		},
+		{
+			"siteName": "101 - HALFWAY",
+			"tagged": "TRUE",
+			"number": "101",
+			"type": "Core - Large",
+			"id": 79052,
+			"dex_name": "Sheffield Halfway"
+		},
+		{
+			"siteName": "052 - HILLSBOROUGH",
+			"tagged": "TRUE",
+			"number": "052",
+			"type": "Core - Large",
+			"id": 79053,
+			"dex_name": "Sheffield Hillsborough"
+		},
+		{
+			"siteName": "229 - SHEFFIELD MEADOWHEAD",
+			"tagged": "FALSE",
+			"number": "229",
+			"type": "Safeway - Megastore",
+			"id": 79054,
+			"dex_name": "Sheffield Meadowhead"
+		},
+		{
+			"siteName": "608 - SHEFFORD",
+			"tagged": "FALSE",
+			"number": "608",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 79055,
+			"dex_name": "Shefford"
+		},
+		{
+			"siteName": "554 - SHELDON",
+			"tagged": "FALSE",
+			"number": "554",
+			"type": "Core - Large",
+			"id": 79056,
+			"dex_name": "Sheldon"
+		},
+		{
+			"siteName": "572 - SHEPPEY",
+			"tagged": "FALSE",
+			"number": "572",
+			"type": "Core - Supermarket",
+			"id": 79057,
+			"dex_name": "Sheppey"
+		},
+		{
+			"siteName": "068 - SHREWSBURY",
+			"tagged": "FALSE",
+			"number": "068",
+			"type": "Core - Supermarket",
+			"id": 79058,
+			"dex_name": "Shrewsbury Whitchurch Road"
+		},
+		{
+			"siteName": "316 - SIDCUP",
+			"tagged": "FALSE",
+			"number": "316",
+			"type": "Safeway - Superstore",
+			"id": 77880,
+			"dex_name": "Sidcup Westwood Lane"
+		},
+		{
+			"siteName": "558 - SITTINGBOURNE",
+			"tagged": "FALSE",
+			"number": "558",
+			"type": "Core - Large",
+			"id": 79059,
+			"dex_name": "Sittingbourne, Kent"
+		},
+		{
+			"siteName": "289 - SKEGNESS",
+			"tagged": "FALSE",
+			"number": "289",
+			"type": "Safeway - Superstore",
+			"id": 79060,
+			"dex_name": "Skegness Wainfleet Rd"
+		},
+		{
+			"siteName": "056 - SKIPTON",
+			"tagged": "TRUE",
+			"number": "056",
+			"type": "Core - Large",
+			"id": 79061,
+			"dex_name": "Skipton Broughton Road"
+		},
+		{
+			"siteName": "261 - SOLIHULL",
+			"tagged": "FALSE",
+			"number": "261",
+			"type": "Safeway - Superstore",
+			"id": 79062,
+			"dex_name": "Solihull Shirley"
+		},
+		{
+			"siteName": "261 - SOLIHULL",
+			"tagged": "FALSE",
+			"number": "261",
+			"type": "Safeway - Superstore",
+			"id": 79063,
+			"dex_name": "Solihull Warwick Rd"
+		},
+		{
+			"siteName": "239 - EASTWOOD",
+			"tagged": "FALSE",
+			"number": "239",
+			"type": "Safeway - Superstore",
+			"id": 78800,
+			"dex_name": "Southend Eastwood Western Approaches"
+		},
+		{
+			"siteName": "134 - SOUTHPORT",
+			"tagged": "TRUE",
+			"number": "134",
+			"type": "Safeway - Superstore",
+			"id": 79065,
+			"dex_name": "Southport Winter Gardens"
+		},
+		{
+			"siteName": "389 - SOUTH SHIELDS",
+			"tagged": "FALSE",
+			"number": "389",
+			"type": "Core - Supermarket",
+			"id": 79064,
+			"dex_name": "South Shields"
+		},
+		{
+			"siteName": "083 - PINCHBECK",
+			"tagged": "FALSE",
+			"number": "083",
+			"type": "Core - Supermarket",
+			"id": 79066,
+			"dex_name": "Spalding Pinchbeck"
+		},
+		{
+			"siteName": "138 - SPEKE",
+			"tagged": "FALSE",
+			"number": "138",
+			"type": "Core - Large",
+			"id": 79067,
+			"dex_name": "Speke Penketh Drive"
+		},
+		{
+			"siteName": "317 - ST ALBANS",
+			"tagged": "FALSE",
+			"number": "317",
+			"type": "Safeway - Megastore",
+			"id": 79068,
+			"dex_name": "St Albans Hatfield Rd"
+		},
+		{
+			"siteName": "046 - STAMFORD",
+			"tagged": "TRUE",
+			"number": "046",
+			"type": "Core - Large",
+			"id": 79072,
+			"dex_name": "Stamford Uffington Road"
+		},
+		{
+			"siteName": "195 - ST ANDREWS",
+			"tagged": "FALSE",
+			"number": "195",
+			"type": "Safeway - Superstore",
+			"id": 79069,
+			"dex_name": "St Andrews Largo Rd"
+		},
+		{
+			"siteName": "196 - STEVENSTON",
+			"tagged": "FALSE",
+			"number": "196",
+			"type": "Safeway - Superstore",
+			"id": 79074,
+			"dex_name": "Stevenston Kilwinning Rd"
+		},
+		{
+			"siteName": "021 - ST HELENS",
+			"tagged": "TRUE",
+			"number": "021",
+			"type": "Core - Large",
+			"id": 79070,
+			"dex_name": "St Helens Baxters Lane"
+		},
+		{
+			"siteName": "021 - ST HELENS",
+			"tagged": "TRUE",
+			"number": "021",
+			"type": "Core - Large",
+			"id": 79071,
+			"dex_name": "St Helens Boundary Road"
+		},
+		{
+			"siteName": "197 - STIRLING",
+			"tagged": "FALSE",
+			"number": "197",
+			"type": "Safeway - Megastore",
+			"id": 79075,
+			"dex_name": "Stirling Munroe Rd"
+		},
+		{
+			"siteName": "644 - ST IVES",
+			"tagged": "FALSE",
+			"number": "644",
+			"type": "Core - Supermarket",
+			"id": 114579,
+			"dex_name": "St Ives"
+		},
+		{
+			"siteName": "215 - BREDBURY",
+			"tagged": "FALSE",
+			"number": "215",
+			"type": "Safeway - Superstore",
+			"id": 78760,
+			"dex_name": "Stockport Bredbury"
+		},
+		{
+			"siteName": "122 - CHEADLE HEATH",
+			"tagged": "FALSE",
+			"number": "122",
+			"type": "Core - Large",
+			"id": 79026,
+			"dex_name": "Stockport Cheadle Heath"
+		},
+		{
+			"siteName": "216 - REDDISH",
+			"tagged": "FALSE",
+			"number": "216",
+			"type": "Safeway - Superstore",
+			"id": 79076,
+			"dex_name": "Stockport Reddish"
+		},
+		{
+			"siteName": "058 - STOCKTON",
+			"tagged": "TRUE",
+			"number": "058",
+			"type": "Core - Large",
+			"id": 79077,
+			"dex_name": "Stockton Thornaby"
+		},
+		{
+			"siteName": "050 - STOKE ",
+			"tagged": "FALSE",
+			"number": "050",
+			"type": "Core - Large",
+			"id": 107178,
+			"dex_name": "Stoke Festival Park"
+		},
+		{
+			"siteName": "262 - STONE",
+			"tagged": "FALSE",
+			"number": "262",
+			"type": "Safeway - Superstore",
+			"id": 79078,
+			"dex_name": "Stone Mill St"
+		},
+		{
+			"siteName": "198 - STRANRAER",
+			"tagged": "FALSE",
+			"number": "198",
+			"type": "Safeway - Small",
+			"id": 79079,
+			"dex_name": "Stranraer London Rd"
+		},
+		{
+			"siteName": "309 - STRATFORD",
+			"tagged": "FALSE",
+			"number": "309",
+			"type": "Safeway - Superstore",
+			"id": 79080,
+			"dex_name": "Stratford UA Alcester Rd"
+		},
+		{
+			"siteName": "140 - STROOD",
+			"tagged": "FALSE",
+			"number": "140",
+			"type": "Core - Large",
+			"id": 77847,
+			"dex_name": "Strood"
+		},
+		{
+			"siteName": "102 - DOXFORD",
+			"tagged": "TRUE",
+			"number": "102",
+			"type": "Core - Large",
+			"id": 79081,
+			"dex_name": "Sunderland Doxford Park"
+		},
+		{
+			"siteName": "047 - SEABURN",
+			"tagged": "TRUE",
+			"number": "047",
+			"type": "Core - Large",
+			"id": 79082,
+			"dex_name": "Sunderland Seaburn"
+		},
+		{
+			"siteName": "318 - SUTTON",
+			"tagged": "FALSE",
+			"number": "318",
+			"type": "Safeway - Megastore",
+			"id": 77845,
+			"dex_name": "Sutton Cheam Road"
+		},
+		{
+			"siteName": "159 - SWADLINCOTE",
+			"tagged": "FALSE",
+			"number": "159",
+			"type": "Core - Large",
+			"id": 79083,
+			"dex_name": "Swadlincote"
+		},
+		{
+			"siteName": "130 - SWANSEA",
+			"tagged": "FALSE",
+			"number": "130",
+			"type": "Core - Large",
+			"id": 79084,
+			"dex_name": "Swansea"
+		},
+		{
+			"siteName": "363 - SWINDON",
+			"tagged": "FALSE",
+			"number": "363",
+			"type": "Safeway - Superstore",
+			"id": 79085,
+			"dex_name": "Swindon - Dorcan Way"
+		},
+		{
+			"siteName": "363 - SWINDON",
+			"tagged": "FALSE",
+			"number": "363",
+			"type": "Safeway - Superstore",
+			"id": 79087,
+			"dex_name": "Swindon Haydon Wick"
+		},
+		{
+			"siteName": "363 - SWINDON",
+			"tagged": "FALSE",
+			"number": "363",
+			"type": "Safeway - Superstore",
+			"id": 79086,
+			"dex_name": "Swindon - Regent Circus"
+		},
+		{
+			"siteName": "217 - SWINTON",
+			"tagged": "FALSE",
+			"number": "217",
+			"type": "Safeway - Superstore",
+			"id": 79088,
+			"dex_name": "Swinton Swinton Hall Rd"
+		},
+		{
+			"siteName": "073 - TAMWORTH",
+			"tagged": "TRUE",
+			"number": "073",
+			"type": "Core - Large",
+			"id": 79176,
+			"dex_name": "Tamworth Marlborough Way"
+		},
+		{
+			"siteName": "073 - TAMWORTH",
+			"tagged": "TRUE",
+			"number": "073",
+			"type": "Core - Large",
+			"id": 79175,
+			"dex_name": "Tamworth Upper Gungate"
+		},
+		{
+			"siteName": "335 - TAUNTON",
+			"tagged": "FALSE",
+			"number": "335",
+			"type": "Safeway - Superstore",
+			"id": 79177,
+			"dex_name": "Taunton Priory Bridge Rd"
+		},
+		{
+			"siteName": "332 - PLYMOUTH",
+			"tagged": "FALSE",
+			"number": "332",
+			"type": "Safeway - Superstore",
+			"id": 79178,
+			"dex_name": "Tavistock Plymouth Rd"
+		},
+		{
+			"siteName": "560 - TEIGNMOUTH",
+			"tagged": "FALSE",
+			"number": "560",
+			"type": "Core - Supermarket",
+			"id": 79179,
+			"dex_name": "Teignmouth"
+		},
+		{
+			"siteName": "561 - TELFORD LAWLEY",
+			"tagged": "FALSE",
+			"number": "561",
+			"type": "Core - Small",
+			"id": 79180,
+			"dex_name": "Telford Lawley"
+		},
+		{
+			"siteName": "049 - WELLINGTON",
+			"tagged": "TRUE",
+			"number": "049",
+			"type": "Core - Large",
+			"id": 79181,
+			"dex_name": "Telford Wellington"
+		},
+		{
+			"siteName": "337 - EWKESBURY",
+			"tagged": "FALSE",
+			"number": "337",
+			"type": "Safeway - Superstore",
+			"id": 79182,
+			"dex_name": "Tewkesbury Ashchurch Rd"
+		},
+		{
+			"siteName": "218 - THORNTON CLEVELEYS",
+			"tagged": "FALSE",
+			"number": "218",
+			"type": "Safeway - Megastore",
+			"id": 79183,
+			"dex_name": "Thornton Cleveleys"
+		},
+		{
+			"siteName": "338 - TIVERTON",
+			"tagged": "FALSE",
+			"number": "338",
+			"type": "Safeway - Superstore",
+			"id": 79185,
+			"dex_name": "Tiverton Kennedy Way"
+		},
+		{
+			"siteName": "053 - ROCHDALE",
+			"tagged": "TRUE",
+			"number": "053",
+			"type": "Core - Large",
+			"id": 79186,
+			"dex_name": "Todmorden Rochdale Rd"
+		},
+		{
+			"siteName": "339 - TOTNES",
+			"tagged": "FALSE",
+			"number": "339",
+			"type": "Safeway - Superstore",
+			"id": 79188,
+			"dex_name": "Totnes Coronation Rd"
+		},
+		{
+			"siteName": "364 - TOTTON",
+			"tagged": "FALSE",
+			"number": "364",
+			"type": "Safeway - Superstore",
+			"id": 77844,
+			"dex_name": "Totton Hounsdown"
+		},
+		{
+			"siteName": "199 - TROON",
+			"tagged": "FALSE",
+			"number": "199",
+			"type": "Safeway - Superstore",
+			"id": 79189,
+			"dex_name": "Troon Academy St"
+		},
+		{
+			"siteName": "064 - TYNEMOUTH",
+			"tagged": "TRUE",
+			"number": "064",
+			"type": "Core - Large",
+			"id": 79190,
+			"dex_name": "Tynemouth Preston Grange"
+		},
+		{
+			"siteName": "640 - VERWOOD",
+			"tagged": "FALSE",
+			"number": "640",
+			"type": "Core - Large",
+			"id": 77843,
+			"dex_name": "Verwood Centre"
+		},
+		{
+			"siteName": "033 - WAKEFIELD",
+			"tagged": "TRUE",
+			"number": "033",
+			"type": "Core - Large",
+			"id": 176668,
+			"dex_name": "Wakefield Central Site Costs"
+		},
+		{
+			"siteName": "033 - WAKEFIELD",
+			"tagged": "TRUE",
+			"number": "033",
+			"type": "Core - Large",
+			"id": 79191,
+			"dex_name": "Wakefield Dewsbury Road"
+		},
+		{
+			"siteName": "033 - WAKEFIELD",
+			"tagged": "TRUE",
+			"number": "033",
+			"type": "Core - Large",
+			"id": 176669,
+			"dex_name": "Wakefield Grandstand Gate 3"
+		},
+		{
+			"siteName": "033 - WAKEFIELD",
+			"tagged": "TRUE",
+			"number": "033",
+			"type": "Core - Large",
+			"id": 79192,
+			"dex_name": "Wakefield Ridings Centre"
+		},
+		{
+			"siteName": "253 - LICHFIELD",
+			"tagged": "FALSE",
+			"number": "253",
+			"type": "Safeway - Superstore",
+			"id": 79193,
+			"dex_name": "Walsall Lichfield St"
+		},
+		{
+			"siteName": "264 - WALSALL",
+			"tagged": "FALSE",
+			"number": "264",
+			"type": "Safeway - Superstore",
+			"id": 79194,
+			"dex_name": "Walsall Wallows Lane"
+		},
+		{
+			"siteName": "340 - WARMINSTER",
+			"tagged": "FALSE",
+			"number": "340",
+			"type": "Safeway - Small",
+			"id": 79195,
+			"dex_name": "Warminster Weymouth St"
+		},
+		{
+			"siteName": "071 - WARRINGTON",
+			"tagged": "TRUE",
+			"number": "071",
+			"type": "Core - Large",
+			"id": 79196,
+			"dex_name": "Warrington Greenalls Avenue"
+		},
+		{
+			"siteName": "586 - WATFORD",
+			"tagged": "FALSE",
+			"number": "586",
+			"type": "Core - Large",
+			"id": 79197,
+			"dex_name": "Watford - Ascot Road"
+		},
+		{
+			"siteName": "153 - WEDNESBURY",
+			"tagged": "FALSE",
+			"number": "153",
+			"type": "Core - Large",
+			"id": 79198,
+			"dex_name": "Wednesbury Holyhead Road"
+		},
+		{
+			"siteName": "447 - WELLING",
+			"tagged": "FALSE",
+			"number": "447",
+			"type": "Core - Supermarket",
+			"id": 77841,
+			"dex_name": "Welling"
+		},
+		{
+			"siteName": "116 - WELLINGBOROUGH",
+			"tagged": "TRUE",
+			"number": "116",
+			"type": "Core - Large",
+			"id": 79199,
+			"dex_name": "Wellingborough Oxford Street"
+		},
+		{
+			"siteName": "559 - WELLS",
+			"tagged": "FALSE",
+			"number": "559",
+			"type": "Core - Supermarket",
+			"id": 79283,
+			"dex_name": "Wells"
+		},
+		{
+			"siteName": "598 - WELSHPOOL",
+			"tagged": "FALSE",
+			"number": "598",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 79284,
+			"dex_name": "Welshpool Berriew St"
+		},
+		{
+			"siteName": "319 - WELWYN GARDEN CITY",
+			"tagged": "FALSE",
+			"number": "319",
+			"type": "Safeway - Superstore",
+			"id": 77904,
+			"dex_name": "Welwyn Garden City"
+		},
+		{
+			"siteName": "678 - WESTBURY",
+			"tagged": "FALSE",
+			"number": "678",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 79286,
+			"dex_name": "Westbury"
+		},
+		{
+			"siteName": "093 - DENTON",
+			"tagged": "TRUE",
+			"number": "093",
+			"type": "Core - Large",
+			"id": 79285,
+			"dex_name": "West Denton"
+		},
+		{
+			"siteName": "220 - WEST KIRBY",
+			"tagged": "FALSE",
+			"number": "220",
+			"type": "Safeway - Small",
+			"id": 77905,
+			"dex_name": "West Kirby"
+		},
+		{
+			"siteName": "110 - WETHERBY",
+			"tagged": "TRUE",
+			"number": "110",
+			"type": "Core - Large",
+			"id": 78698,
+			"dex_name": "Wetherby"
+		},
+		{
+			"siteName": "404 - WEYBRIDGE",
+			"tagged": "FALSE",
+			"number": "404",
+			"type": "Core - Supermarket",
+			"id": 107193,
+			"dex_name": "Weybridge"
+		},
+		{
+			"siteName": "366 - WEYMOUTH",
+			"tagged": "FALSE",
+			"number": "366",
+			"type": "Safeway - Megastore",
+			"id": 78695,
+			"dex_name": "Weymouth"
+		},
+		{
+			"siteName": "131 - CHESTER",
+			"tagged": "FALSE",
+			"number": "131",
+			"type": "Safeway - Superstore",
+			"id": 77840,
+			"dex_name": "Weymouth Dorchester Rd"
+		},
+		{
+			"siteName": "149 - WHITEFIELD",
+			"tagged": "FALSE",
+			"number": "149",
+			"type": "Core - Large",
+			"id": 78693,
+			"dex_name": "Whitefield Stanley Road"
+		},
+		{
+			"siteName": "221 - WHITEHAVEN",
+			"tagged": "FALSE",
+			"number": "221",
+			"type": "Safeway - Superstore",
+			"id": 78692,
+			"dex_name": "Whitehaven"
+		},
+		{
+			"siteName": "207 - WHITLEY BAY",
+			"tagged": "FALSE",
+			"number": "207",
+			"type": "Safeway - Superstore",
+			"id": 78690,
+			"dex_name": "Whitley Bay"
+		},
+		{
+			"siteName": "019 - WIDNES",
+			"tagged": "TRUE",
+			"number": "019",
+			"type": "Core - Large",
+			"id": 78642,
+			"dex_name": "Widnes Green Oaks"
+		},
+		{
+			"siteName": "442 - WILLENHALL",
+			"tagged": "FALSE",
+			"number": "442",
+			"type": "Core - Large",
+			"id": 78640,
+			"dex_name": "Willenhall"
+		},
+		{
+			"siteName": "342 - WINCANTON",
+			"tagged": "FALSE",
+			"number": "342",
+			"type": "Safeway - Superstore",
+			"id": 78638,
+			"dex_name": "Wincanton Alderneads"
+		},
+		{
+			"siteName": "077 - WINSFORD",
+			"tagged": "TRUE",
+			"number": "077",
+			"type": "Core - Large",
+			"id": 78637,
+			"dex_name": "Winsford Wharton"
+		},
+		{
+			"siteName": "511 - WISBECH",
+			"tagged": "FALSE",
+			"number": "511",
+			"type": "Core - Supermarket",
+			"id": 78635,
+			"dex_name": "Wisbech"
+		},
+		{
+			"siteName": "200 - WISHAW",
+			"tagged": "TRUE",
+			"number": "200",
+			"type": "Safeway - Small",
+			"id": 78634,
+			"dex_name": "Wishaw Kirk Rd"
+		},
+		{
+			"siteName": "290 - WITHAM",
+			"tagged": "TRUE",
+			"number": "290",
+			"type": "Safeway - Superstore",
+			"id": 78633,
+			"dex_name": "Witham Braintree Rd"
+		},
+		{
+			"siteName": "367 - WOKING",
+			"tagged": "TRUE",
+			"number": "367",
+			"type": "Safeway - Megastore",
+			"id": 78632,
+			"dex_name": "Woking Goldsworth Rd"
+		},
+		{
+			"siteName": "367 - WOKING",
+			"tagged": "TRUE",
+			"number": "367",
+			"type": "Safeway - Megastore",
+			"id": 78631,
+			"dex_name": "Wokingham Woosehill"
+		},
+		{
+			"siteName": "024 - BILSTON",
+			"tagged": "TRUE",
+			"number": "024",
+			"type": "Core - Large",
+			"id": 78630,
+			"dex_name": "Wolverhampton Bilston"
+		},
+		{
+			"siteName": "401 - PENDEFORD",
+			"tagged": "TRUE",
+			"number": "401",
+			"type": "Safeway - Small",
+			"id": 78629,
+			"dex_name": "Wolverhampton Pendeford"
+		},
+		{
+			"siteName": "223 - WORKINGTON",
+			"tagged": "TRUE",
+			"number": "223",
+			"type": "Safeway - Superstore",
+			"id": 78628,
+			"dex_name": "Workington Derwent Retail Pk"
+		},
+		{
+			"siteName": "580 - WORKSOP",
+			"tagged": "TRUE",
+			"number": "580",
+			"type": "Core - Supermarket",
+			"id": 78627,
+			"dex_name": "Worksop - Kilton Road"
+		},
+		{
+			"siteName": "641 - WORTHING",
+			"tagged": "TRUE",
+			"number": "641",
+			"type": "Core - Large",
+			"id": 77838,
+			"dex_name": "Worthing"
+		},
+		{
+			"siteName": "417 - WREXHAM",
+			"tagged": "TRUE",
+			"number": "417",
+			"type": "Core - Large",
+			"id": 78625,
+			"dex_name": "Wrexham"
+		},
+		{
+			"siteName": "655 - WYMONDHAM",
+			"tagged": "TRUE",
+			"number": "655",
+			"type": "Core - Supermarket",
+			"id": 78624,
+			"dex_name": "Wymondham"
+		},
+		{
+			"siteName": "343 - YATE",
+			"tagged": "TRUE",
+			"number": "343",
+			"type": "Safeway - Superstore",
+			"id": 78623,
+			"dex_name": "Yate Station Rd"
+		},
+		{
+			"siteName": "344 - YEOVIL",
+			"tagged": "TRUE",
+			"number": "344",
+			"type": "Safeway - Megastore",
+			"id": 78622,
+			"dex_name": "Yeovil Lysander Rd"
+		},
+		{
+			"siteName": "449 - YIEWSLEY",
+			"tagged": "TRUE",
+			"number": "449",
+			"type": "Small - Ex Netto/ Co-op/ Somerfield",
+			"id": 78621,
+			"dex_name": "Yiewsley High Street"
+		},
+		{
+			"siteName": "155 - YORK",
+			"tagged": "TRUE",
+			"number": "155",
+			"type": "Core - Large",
+			"id": 78620,
+			"dex_name": "York Acomb"
+		},
+		{
+			"siteName": "155 - YORK",
+			"tagged": "TRUE",
+			"number": "155",
+			"type": "Core - Large",
+			"id": 78615,
+			"dex_name": "York Foss Islands"
+		}
+	]
+}

@@ -8,7 +8,7 @@ const googleSheetJSON = async url => {
       return createJSONFile(data.feed.entry)
     })
     .catch(error => {
-      return error
+      console.error(error)
     })
   return siteName
 }
